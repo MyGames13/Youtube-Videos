@@ -1,0 +1,12 @@
+BUILDING NOTICE 003 // If You Find A Photo Of Yourself You Never Took... KEEP IT
+Final: notice003_final.mp4, 5:55.9, 1280x720 30 fps H.264 High yuv420p + AAC 128k 48 kHz, 79.6 MiB; SSIM 0.995 vs the CRF 14 mezzanine.
+Audio: -14.5 LUFS integrated, true peak -1.4 dBTP, LRA 4.7 LU, three designed near silences; every sound procedural.
+Voice: Gemini TTS gemini-3.8-flash-tts, voice Iapetus; key read only from GEMINI_API_KEY, never stored; seed 1003, temperature 0.7.
+Consistency: 10 of 10 beats pass the gate; worst deviation from the median f0 8.1%, WPM 12.1%, centroid 14.8%; all beats transcribed and diffed.
+Fallbacks: none used (Kokoro auditioned, not needed).
+Picture: 84 shots, 51 motivated 2D/3D mode switches, one stickman rig in both modes, every spoken action has its own visual beat.
+Render path: Remotion 4 + react three fiber, headless Chromium WebGL via ANGLE on SwiftShader (swangle).
+Render speed: FXAA instead of MSAA plus a cached photo render target took the full render from about 3.5 h to 50 min (2 workers).
+Upload: metadata.txt (title, description, chapters, 15 tags, pinned comment), thumbnail.png, captions.srt.
+Also: script_final.md, voiceover_master.wav, audio_mix.flac (lossless; the 24 bit WAV exceeds the GitHub file limit), project/ with README and make_voice.py.
+Shorts skipped as requested. No em or en dashes and no keys in any file.
