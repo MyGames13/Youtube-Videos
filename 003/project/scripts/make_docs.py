@@ -164,7 +164,7 @@ def main():
     open(os.path.join(OUT, "metadata.txt"), "w").write(metadata())
     for f in ["captions.srt", "script_final.md", "metadata.txt"]:
         txt = open(os.path.join(OUT, f)).read()
-        assert "—" not in txt and "–" not in txt, f"dash in {f}"
+        assert chr(0x2014) not in txt and chr(0x2013) not in txt, f"dash in {f}"
         print(f, len(txt), "chars")
 
 
