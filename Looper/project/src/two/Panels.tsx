@@ -223,7 +223,7 @@ export const Taxi: React.FC<ShotProps> = ({t, dur, m}) => {
         <circle cx={40} cy={-14} r={5} fill="#fff7c0" />
         <circle cx={40} cy={14} r={5} fill="#fff7c0" />
       </g>
-      {t > lap ? <Slam t={t} at={lap + 0.25} x={640} y={130} size={34} color={C.coral} text="SHORTCUT: 0 MINUTES SAVED" font="mono" /> : null}
+      {t > lap ? <Slam t={t} at={lap + 0.25} x={640} y={205} size={34} color={C.coral} text="SHORTCUT: 0 MINUTES SAVED" font="mono" /> : null}
       <XPunch t={t} at={dur - 0.55} x={x} y={y} size={150} />
       </g>
     </Panel>
@@ -471,8 +471,8 @@ export const Branches: React.FC<ShotProps> = ({t, dur, m}) => {
   const notYours = save + 1.3;
   const sp = easeInOut(inv(split, split + 1.2, t));
   const zoom = easeInOut(inv(notYours, notYours + 1.6, t));
-  const cy = lerp(360, 470, zoom);
-  const cx = lerp(640, 900, zoom);
+  const cy = lerp(360, 560, zoom);
+  const cx = lerp(640, 1005, zoom);
   const p: Pose = {...stand(t), handR: [-0.3, 1.3, 0.3], poleR: [-1, -0.4, 0], mouth: 0.3};
   return (
     <Panel bg="#0e0b28" bg2="#16113a" t={t} dur={dur} push={0} border={false}>

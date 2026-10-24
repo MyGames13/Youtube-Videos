@@ -46,7 +46,7 @@ const mapRect = (F: R, Rr: R): React.CSSProperties => {
 };
 const clipR = (Rr: R, round = 18): string => `inset(${Rr.y}px ${W - Rr.x - Rr.w}px ${H - Rr.y - Rr.h}px ${Rr.x}px round ${round}px)`;
 
-export const Main: React.FC = () => {
+export const Main: React.FC<{overlays?: boolean}> = ({overlays = true}) => {
   const frame = useCurrentFrame();
   const t = frame / TL.fps;
   const shots = TL.shots;
@@ -203,7 +203,7 @@ export const Main: React.FC = () => {
   for (const c of TL.sfx) {
     if (c.kind === 'glitch' && t >= c.t - 0.02 && t < c.t + 0.22) glitch = Math.max(glitch, 1 - (t - c.t) / 0.24);
   }
-  const showHudCaps = t < TL.hud.off;
+  const showHudCaps = overlays && t < TL.hud.off;
 
   return (
     <AbsoluteFill style={{background: C.base, overflow: 'hidden'}}>
@@ -219,7 +219,7 @@ export const Main: React.FC = () => {
       <Scanlines />
       <Grain frame={frame} />
       {showHudCaps ? <CaptionBand /> : null}
-      <HUD t={t} />
+      {overlays ? <HUD t={t} /> : null}
       {showHudCaps ? <Captions t={t} /> : null}
     </AbsoluteFill>
   );

@@ -5,3 +5,6 @@ voice/cache/
 voice/_*.wav
 voice/narration_48k.wav
 voice/beats_backup.json
+voice/*.orig
+__pycache__/
+*.pyc

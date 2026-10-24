@@ -7,11 +7,11 @@ Remotion 4 + React Three Fiber project. One `src/timeline.json` drives picture a
 ```bash
 npm install
 # 1. voice (needs GEMINI_API_KEY in the environment; never written to disk)
-cd voice && python3 gen_beats.py && python3 process_voice.py && cd ..
+cd voice && python3 gen_beats.py && python3 process_voice.py && python3 patch_line.py && cd ..
 # 2. timeline, docs and sound
 python3 director.py && python3 build_audio.py && python3 make_docs.py
 # 3. picture (headless WebGL via SwiftShader) then final encode
-./render_segments.sh && ./encode.sh
+./render_segments.sh && ./render_fix.sh && ./encode.sh
 ```
 
 `render_segments.sh` renders in four logged segments and joins them losslessly. Single pass alternative:
@@ -26,6 +26,8 @@ Cached clips live in `voice/cache` keyed by a hash of model, voice, style and te
 Model `gemini-3.8-flash-tts`, voice `Algieba` (chosen by audition), one identical director's notes header on every request,
 one processing chain (80 Hz high pass, de ess, 3:1 compression, warmth, proximity shelf, spectral match to the median beat, max 3 dB per band),
 then a uniform 4.5 percent pitch preserving tempo lift. Beat 6b used a formant preserving pitch trim (0.91) after three retakes ran high.
+Line b6a.4 was spliced from take 2 of beat 6 (`voice/patch_line.py`) because the b6a take said "your grandma" instead of "a grandma";
+the splice keeps the narration tempo and sits on the existing caption times, so no timing changed. Every beat was transcript checked by a Gemini listener.
 
 ### Consistency gate (section 7.4)
 

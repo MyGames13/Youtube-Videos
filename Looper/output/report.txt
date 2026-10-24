@@ -1,0 +1,10 @@
+Runtime 2:56.9 (176.87 s), under the 3:00 cap you set (this overrides the 4:00 minimum in the master prompt). 1280x720, 30 fps.
+Final file 61.6 MB (H.264 High yuv420p, AAC 128 kbps 48 kHz, faststart). Quality vs mezzanine: SSIM All:0.998449.
+Loudness: integrated -14.1 LUFS, true peak -1.5 dBTP, loudness range 2.7 LU. Exactly three near silences; loop note delay = Loop Motif beat 0.833 s.
+Voice: Gemini TTS, model gemini-3.8-flash-tts (newest on the free keys), voice Algieba (won a 4 voice audition), one director notes header.
+Voice gate: all 9 beats PASS. Worst deviation pitch 9.6 %, rate 12.9 %, spectral centroid 15.0 %, loudness 0.42 LU.
+Fallbacks: inline style text was read aloud by the model, switched to a director notes layout; leaked lead ins on 5 beats trimmed at silences (transcript verified).
+Beat 6 needed 3 retakes plus a split; 6b carries a formant preserving 0.91 pitch trim; one line (b6a.4) was spliced from take 2 to fix a wrong word.
+Picture: full 3D path (React Three Fiber in headless Chromium via SwiftShader), no 2.5D fallback. Fonts bundled locally (Google Fonts TLS blocked in the renderer).
+Sound: 100 percent procedural (numpy/scipy), no samples; mix checked by an AI listener and revised (transition SFX and hits lowered, rain hiss and phone rings tamed).
+Could not do: human listening, a reference video analysis (no reference files were attached), real CC0 foley. Script trimmed to about 460 words to fit 3 minutes.

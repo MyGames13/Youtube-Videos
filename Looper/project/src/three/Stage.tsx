@@ -32,7 +32,9 @@ const SceneBg: React.FC<{color: string; fog?: [number, number]}> = ({color, fog}
 };
 
 export const Stage: React.FC<{cam: Cam; bg: string; fog?: [number, number]; children: React.ReactNode}> = ({cam, bg, fog, children}) => {
-  const {width, height} = useVideoConfig();
+  // the picture is always authored at 1280x720 (shorts recompose it), so do not take the size from the composition
+  const width = 1280;
+  const height = 720;
   return (
     <ThreeCanvas
       width={width}

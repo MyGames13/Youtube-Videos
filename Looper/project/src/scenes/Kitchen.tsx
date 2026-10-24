@@ -286,7 +286,7 @@ export const Kitchen: React.FC<ShotProps & {v: string}> = ({t, dur, m, v}) => {
     const handW: V3 = [cup2[0] + 0.065, cup2[1] + 0.04, cup2[2]];
     youPose = {...sit(t), handL: toLocal(handW, YOU_SEAT, Math.PI), handR: [-0.16, 0.8, 0.28], headPitch: 0.1};
     const k = easeInOut(clamp(t / dur));
-    cam = t < place + 0.9 ? {pos: [1.25, 1.3, 0.75], look: [CUP2_B[0] - 0.05, TABLE_Y + 0.05, CUP2_B[2] - 0.05], fov: 32, shake: 0.002, t} : {pos: [lerp(-1.6, -2.0, k), lerp(1.9, 2.1, k), lerp(1.9, 2.3, k)], look: [0, 1.0, -0.2], fov: 40, shake: 0.002, t};
+    cam = t < place + 0.9 ? {pos: [0.12, 1.95, -0.4], look: [CUP2_B[0], TABLE_Y, CUP2_B[2]], fov: 38, shake: 0.002, t} : {pos: [lerp(1.6, 2.3, k), lerp(1.55, 1.95, k), lerp(1.2, 2.1, k)], look: [0, 1.0, -0.3], fov: 40, shake: 0.002, t};
     granPose = {...granPose, mouth: 1, headPitch: 0.0};
   }
 

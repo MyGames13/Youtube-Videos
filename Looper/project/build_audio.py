@@ -1002,11 +1002,11 @@ def build():
     for _ in range(4):
         L = meter.integrated_loudness(mix.T)
         mix *= db(-14.0 - L)
-        mix = limiter(mix, -1.4)
+        mix = limiter(mix, -2.4)
     up4 = signal.resample_poly(mix, 4, 1, axis=1)
     tp = 20 * np.log10(np.max(np.abs(up4)) + 1e-12)
-    if tp > -1.0:
-        mix *= db(-1.05 - tp)
+    if tp > -2.0:
+        mix *= db(-2.05 - tp)
     L = meter.integrated_loudness(mix.T)
     up4 = signal.resample_poly(mix, 4, 1, axis=1)
     tp = 20 * np.log10(np.max(np.abs(up4)) + 1e-12)

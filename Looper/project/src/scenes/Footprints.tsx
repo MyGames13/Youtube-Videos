@@ -51,7 +51,7 @@ export const Footprints: React.FC<ShotProps> = ({t, dur, m}) => {
   });
   const ring = smooth(inv((m['b4.4'] ?? 1.5) + 0.6, (m['b4.4'] ?? 1.5) + 1.6, t));
   const ringMat = useMemo(() => new THREE.MeshBasicMaterial({color: C.violet, transparent: true, blending: THREE.AdditiveBlending, depthWrite: false, toneMapped: false}), []);
-  ringMat.opacity = ring * 0.9;
+  ringMat.opacity = 0.45 + ring * 0.55;
   return (
     <AbsoluteFill>
       <Stage cam={cam} bg="#0a0820" fog={[2.5, 14]}>
@@ -64,7 +64,7 @@ export const Footprints: React.FC<ShotProps> = ({t, dur, m}) => {
           </mesh>
         ))}
         {prints.map((p) => {
-          const appear = smooth(inv(p.i * 0.45 - 0.6, p.i * 0.45 - 0.2, t + 1.2));
+          const appear = smooth(inv(p.i * 0.05 - 0.4, p.i * 0.05 - 0.1, t));
           const hot = Math.max(0, 1 - Math.abs(z - 0.1 - p.z) / 0.35);
           return <Print key={p.i} x={p.x} z={p.z} o={appear} hot={hot} />;
         })}
@@ -83,10 +83,10 @@ export const Footprints: React.FC<ShotProps> = ({t, dur, m}) => {
           <cylinderGeometry args={[0.16, 0.2, 0.08, 20, 1, true]} />
         </mesh>
         {/* far ahead the footprints curve into the Loop Ring on the floor */}
-        <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.01, -t * SPEED - 6.5]} material={ringMat}>
+        <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.01, -8.2]} material={ringMat}>
           <ringGeometry args={[1.6, 1.72, 64]} />
         </mesh>
-        <Glow p={[0, 0.2, -t * SPEED - 6.5]} s={5} color={C.violet} o={ring * 0.3} />
+        <Glow p={[0, 0.3, -8.2]} s={6} color={C.violet} o={0.25 + ring * 0.45} />
         <ambientLight color="#6a5ad0" intensity={0.6} />
         <pointLight position={[0, 2.2, z - 3]} color={C.teal} intensity={2} distance={5} decay={1.5} />
         <pointLight position={[0, 2.0, z + 0.5]} color="#ffffff" intensity={1.5} distance={3} decay={1.5} />

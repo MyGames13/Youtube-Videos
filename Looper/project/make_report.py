@@ -23,7 +23,7 @@ lines = [
     'Voice: Gemini TTS, model gemini-3.8-flash-tts (newest on the free keys), voice Algieba (won a 4 voice audition), one director notes header.',
     f"Voice gate: all 9 beats PASS. Worst deviation pitch {w['f0']:.1f} %, rate {w['wpm']:.1f} %, spectral centroid {w['centroid']:.1f} %, loudness {w['lufs']:.2f} LU.",
     'Fallbacks: inline style text was read aloud by the model, switched to a director notes layout; leaked lead ins on 5 beats trimmed at silences (transcript verified).',
-    'Beat 6 needed 3 retakes plus a split; the final 6b take carries a formant preserving 0.91 pitch trim. Narration has a uniform 4.5 percent pitch preserving tempo lift.',
+    'Beat 6 needed 3 retakes plus a split; 6b carries a formant preserving 0.91 pitch trim; one line (b6a.4) was spliced from take 2 to fix a wrong word.',
     'Picture: full 3D path (React Three Fiber in headless Chromium via SwiftShader), no 2.5D fallback. Fonts bundled locally (Google Fonts TLS blocked in the renderer).',
     'Sound: 100 percent procedural (numpy/scipy), no samples; mix checked by an AI listener and revised (transition SFX and hits lowered, rain hiss and phone rings tamed).',
     'Could not do: human listening, a reference video analysis (no reference files were attached), real CC0 foley. Script trimmed to about 460 words to fit 3 minutes.',

@@ -55,13 +55,13 @@ export const Short: React.FC<{from: number; to: number; card: [string, string]}>
   const k = easeOut(inv(cardAt, cardAt + 0.5, t));
   return (
     <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 50%, #1d1550 0%, #07061A 70%)', overflow: 'hidden'}}>
-      <div style={{position: 'absolute', top: 40, left: 0, right: 0, textAlign: 'center', fontFamily: `${MONT}, sans-serif`, fontWeight: 900, fontSize: 52, lineHeight: 1.05}}>
+      <div style={{position: 'absolute', top: 40, left: 0, right: 0, textAlign: 'center', fontFamily: `${MONT}, sans-serif`, fontWeight: 900, fontSize: 44, lineHeight: 1.05}}>
         <span style={{color: C.white}}>TIME TRAVEL IS </span>
         <span style={{color: C.gold, textShadow: `0 0 24px ${C.gold}88`}}>USELESS</span>
       </div>
       <VHud t={t} />
       {!inCard ? (
-        <div style={{position: 'absolute', left: 360 - 640 * 1.25, top: 300, width: 1280, height: 720, transform: 'scale(1.25)', transformOrigin: '640px 0px', overflow: 'hidden'}}>
+        <div style={{position: 'absolute', left: 360 - 640, top: 300, width: 1280, height: 720, transform: 'scale(1.25)', transformOrigin: '640px 0px', overflow: 'hidden'}}>
           <Sequence from={-Math.round(from * 30)} layout="none">
             <Main overlays={false} />
           </Sequence>
