@@ -1,0 +1,6070 @@
+{
+ "lines": [
+  {
+   "id": "L001",
+   "beat": "B01",
+   "section": "hook",
+   "text": "If you find a photo of yourself you never took... keep it.",
+   "dur": 3.92,
+   "file": "out/lines/L001.wav",
+   "words": [
+    [
+     "if",
+     0.275,
+     0.425
+    ],
+    [
+     "you",
+     0.425,
+     0.535
+    ],
+    [
+     "find",
+     0.535,
+     0.765
+    ],
+    [
+     "a",
+     0.765,
+     0.795
+    ],
+    [
+     "photo",
+     0.795,
+     1.225
+    ],
+    [
+     "of",
+     1.225,
+     1.305
+    ],
+    [
+     "yourself",
+     1.305,
+     1.775
+    ],
+    [
+     "you",
+     1.775,
+     1.865
+    ],
+    [
+     "never",
+     1.865,
+     2.125
+    ],
+    [
+     "took",
+     2.125,
+     2.585
+    ],
+    [
+     "keep",
+     3.075,
+     3.375
+    ],
+    [
+     "it",
+     3.375,
+     3.625
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.61
+  },
+  {
+   "id": "L002",
+   "beat": "B01",
+   "section": "hook",
+   "text": "Do not throw it away. Do not show it to anyone.",
+   "dur": 3.21,
+   "file": "out/lines/L002.wav",
+   "words": [
+    [
+     "do",
+     0.205,
+     0.295
+    ],
+    [
+     "not",
+     0.295,
+     0.485
+    ],
+    [
+     "throw",
+     0.485,
+     0.685
+    ],
+    [
+     "it",
+     0.685,
+     0.745
+    ],
+    [
+     "away",
+     0.745,
+     1.195
+    ],
+    [
+     "do",
+     1.615,
+     1.715
+    ],
+    [
+     "not",
+     1.715,
+     1.965
+    ],
+    [
+     "show",
+     1.965,
+     2.275
+    ],
+    [
+     "it",
+     2.275,
+     2.345
+    ],
+    [
+     "to",
+     2.345,
+     2.465
+    ],
+    [
+     "anyone",
+     2.465,
+     3.005
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.0
+  },
+  {
+   "id": "L003",
+   "beat": "B01",
+   "section": "hook",
+   "text": "And do not try to remember when it happened.",
+   "dur": 2.465,
+   "file": "out/lines/L003.wav",
+   "words": [
+    [
+     "and",
+     0.125,
+     0.355
+    ],
+    [
+     "do",
+     0.355,
+     0.505
+    ],
+    [
+     "not",
+     0.505,
+     0.875
+    ],
+    [
+     "try",
+     0.875,
+     1.125
+    ],
+    [
+     "to",
+     1.125,
+     1.295
+    ],
+    [
+     "remember",
+     1.295,
+     1.675
+    ],
+    [
+     "when",
+     1.675,
+     1.815
+    ],
+    [
+     "it",
+     1.815,
+     1.895
+    ],
+    [
+     "happened",
+     1.895,
+     2.385
+    ]
+   ],
+   "onset": 0.145,
+   "offset": 2.36
+  },
+  {
+   "id": "L004",
+   "beat": "B01",
+   "section": "hook",
+   "text": "You already looked at it twice.",
+   "dur": 1.685,
+   "file": "out/lines/L004.wav",
+   "words": [
+    [
+     "you",
+     0.205,
+     0.315
+    ],
+    [
+     "already",
+     0.315,
+     0.575
+    ],
+    [
+     "looked",
+     0.575,
+     0.815
+    ],
+    [
+     "at",
+     0.815,
+     0.905
+    ],
+    [
+     "it",
+     0.905,
+     1.005
+    ],
+    [
+     "twice",
+     1.005,
+     1.505
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.49
+  },
+  {
+   "id": "L005",
+   "beat": "B01",
+   "section": "hook",
+   "text": "You told yourself it was someone who looks like you.",
+   "dur": 2.4,
+   "file": "out/lines/L005.wav",
+   "words": [
+    [
+     "you",
+     0.225,
+     0.315
+    ],
+    [
+     "told",
+     0.315,
+     0.525
+    ],
+    [
+     "yourself",
+     0.525,
+     0.885
+    ],
+    [
+     "it",
+     0.885,
+     0.955
+    ],
+    [
+     "was",
+     0.955,
+     1.085
+    ],
+    [
+     "someone",
+     1.085,
+     1.395
+    ],
+    [
+     "who",
+     1.395,
+     1.505
+    ],
+    [
+     "looks",
+     1.505,
+     1.795
+    ],
+    [
+     "like",
+     1.795,
+     2.035
+    ],
+    [
+     "you",
+     2.035,
+     2.365
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.345
+  },
+  {
+   "id": "L006",
+   "beat": "B01",
+   "section": "hook",
+   "text": "It is not. You have your own ears.",
+   "dur": 3.16,
+   "file": "out/lines/L006.wav",
+   "words": [
+    [
+     "it",
+     0.22,
+     0.31
+    ],
+    [
+     "is",
+     0.31,
+     0.45
+    ],
+    [
+     "not",
+     0.45,
+     0.82
+    ],
+    [
+     "you",
+     1.59,
+     1.74
+    ],
+    [
+     "have",
+     1.74,
+     1.88
+    ],
+    [
+     "your",
+     1.88,
+     2.09
+    ],
+    [
+     "own",
+     2.09,
+     2.25
+    ],
+    [
+     "ears",
+     2.25,
+     2.82
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.86
+  },
+  {
+   "id": "L007",
+   "beat": "B01",
+   "section": "hook",
+   "text": "A photograph needs a photographer.",
+   "dur": 1.985,
+   "file": "out/lines/L007.wav",
+   "words": [
+    [
+     "a",
+     0.21,
+     0.28
+    ],
+    [
+     "photograph",
+     0.28,
+     0.77
+    ],
+    [
+     "needs",
+     0.77,
+     1.02
+    ],
+    [
+     "a",
+     1.02,
+     1.06
+    ],
+    [
+     "photographer",
+     1.06,
+     1.9
+    ]
+   ],
+   "onset": 0.2,
+   "offset": 1.875
+  },
+  {
+   "id": "L008",
+   "beat": "B01",
+   "section": "hook",
+   "text": "You would remember a flash.",
+   "dur": 1.73,
+   "file": "out/lines/L008.wav",
+   "words": [
+    [
+     "you",
+     0.215,
+     0.315
+    ],
+    [
+     "would",
+     0.315,
+     0.445
+    ],
+    [
+     "remember",
+     0.445,
+     0.815
+    ],
+    [
+     "a",
+     0.815,
+     0.845
+    ],
+    [
+     "flash",
+     0.845,
+     1.425
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.425
+  },
+  {
+   "id": "L009",
+   "beat": "B01",
+   "section": "hook",
+   "text": "So someone stood close enough to take it, and you did not notice.",
+   "dur": 4.165,
+   "file": "out/lines/L009.wav",
+   "words": [
+    [
+     "so",
+     0.24,
+     0.37
+    ],
+    [
+     "someone",
+     0.37,
+     0.72
+    ],
+    [
+     "stood",
+     0.72,
+     1.05
+    ],
+    [
+     "close",
+     1.05,
+     1.37
+    ],
+    [
+     "enough",
+     1.37,
+     1.57
+    ],
+    [
+     "to",
+     1.57,
+     1.69
+    ],
+    [
+     "take",
+     1.69,
+     1.99
+    ],
+    [
+     "it",
+     1.99,
+     2.23
+    ],
+    [
+     "and",
+     2.69,
+     2.86
+    ],
+    [
+     "you",
+     2.86,
+     2.96
+    ],
+    [
+     "did",
+     2.96,
+     3.13
+    ],
+    [
+     "not",
+     3.13,
+     3.33
+    ],
+    [
+     "notice",
+     3.33,
+     3.87
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.855
+  },
+  {
+   "id": "L010",
+   "beat": "B01",
+   "section": "hook",
+   "text": "Management has prepared a short briefing.",
+   "dur": 2.455,
+   "file": "out/lines/L010.wav",
+   "words": [
+    [
+     "management",
+     0.22,
+     0.73
+    ],
+    [
+     "has",
+     0.73,
+     0.91
+    ],
+    [
+     "prepared",
+     0.91,
+     1.29
+    ],
+    [
+     "a",
+     1.29,
+     1.32
+    ],
+    [
+     "short",
+     1.32,
+     1.65
+    ],
+    [
+     "briefing",
+     1.65,
+     2.17
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.15
+  },
+  {
+   "id": "L011",
+   "beat": "B01",
+   "section": "hook",
+   "text": "It will last as long as the photograph stays in your hand.",
+   "dur": 3.2,
+   "file": "out/lines/L011.wav",
+   "words": [
+    [
+     "it",
+     0.265,
+     0.345
+    ],
+    [
+     "will",
+     0.345,
+     0.485
+    ],
+    [
+     "last",
+     0.485,
+     0.775
+    ],
+    [
+     "as",
+     0.775,
+     0.915
+    ],
+    [
+     "long",
+     0.915,
+     1.185
+    ],
+    [
+     "as",
+     1.185,
+     1.295
+    ],
+    [
+     "the",
+     1.295,
+     1.365
+    ],
+    [
+     "photograph",
+     1.365,
+     1.905
+    ],
+    [
+     "stays",
+     1.905,
+     2.305
+    ],
+    [
+     "in",
+     2.305,
+     2.375
+    ],
+    [
+     "your",
+     2.375,
+     2.485
+    ],
+    [
+     "hand",
+     2.485,
+     2.905
+    ]
+   ],
+   "onset": 0.26,
+   "offset": 2.895
+  },
+  {
+   "id": "L012",
+   "beat": "B01",
+   "section": "hook",
+   "text": "Check the corner.",
+   "dur": 1.215,
+   "file": "out/lines/L012.wav",
+   "words": [
+    [
+     "check",
+     0.215,
+     0.425
+    ],
+    [
+     "the",
+     0.425,
+     0.495
+    ],
+    [
+     "corner",
+     0.495,
+     0.965
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 0.945
+  },
+  {
+   "id": "L013",
+   "beat": "B02",
+   "section": "hook",
+   "text": "A photographer usually stands a few metres away.",
+   "dur": 3.295,
+   "file": "out/lines/L013.wav",
+   "words": [
+    [
+     "a",
+     0.0,
+     0.045
+    ],
+    [
+     "photographer",
+     0.695,
+     1.285
+    ],
+    [
+     "usually",
+     1.285,
+     1.675
+    ],
+    [
+     "stands",
+     1.675,
+     2.055
+    ],
+    [
+     "a",
+     2.055,
+     2.105
+    ],
+    [
+     "few",
+     2.105,
+     2.335
+    ],
+    [
+     "metres",
+     2.335,
+     2.715
+    ],
+    [
+     "away",
+     2.715,
+     3.025
+    ]
+   ],
+   "onset": 0.0,
+   "offset": 3.085
+  },
+  {
+   "id": "L014",
+   "beat": "B02",
+   "section": "hook",
+   "text": "This one stood forty metres away.",
+   "dur": 2.2,
+   "file": "out/lines/L014.wav",
+   "words": [
+    [
+     "this",
+     0.0,
+     0.27
+    ],
+    [
+     "one",
+     0.27,
+     0.61
+    ],
+    [
+     "stood",
+     0.61,
+     0.94
+    ],
+    [
+     "forty",
+     0.94,
+     1.25
+    ],
+    [
+     "metres",
+     1.25,
+     1.61
+    ],
+    [
+     "away",
+     1.61,
+     1.91
+    ]
+   ],
+   "onset": 0.105,
+   "offset": 1.935
+  },
+  {
+   "id": "L015",
+   "beat": "B02",
+   "section": "hook",
+   "text": "That is a great deal of faith to place in a zoom lens.",
+   "dur": 2.94,
+   "file": "out/lines/L015.wav",
+   "words": [
+    [
+     "that",
+     0.0,
+     0.34
+    ],
+    [
+     "is",
+     0.34,
+     0.45
+    ],
+    [
+     "a",
+     0.45,
+     0.51
+    ],
+    [
+     "great",
+     0.51,
+     0.86
+    ],
+    [
+     "deal",
+     0.86,
+     1.1
+    ],
+    [
+     "of",
+     1.1,
+     1.16
+    ],
+    [
+     "faith",
+     1.16,
+     1.46
+    ],
+    [
+     "to",
+     1.46,
+     1.59
+    ],
+    [
+     "place",
+     1.59,
+     1.89
+    ],
+    [
+     "in",
+     1.89,
+     1.98
+    ],
+    [
+     "a",
+     1.98,
+     2.01
+    ],
+    [
+     "zoom",
+     2.01,
+     2.25
+    ],
+    [
+     "lens",
+     2.25,
+     2.65
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.645
+  },
+  {
+   "id": "L016",
+   "beat": "B02",
+   "section": "hook",
+   "text": "Four things will happen. Each one brings the photographer closer.",
+   "dur": 4.61,
+   "file": "out/lines/L016.wav",
+   "words": [
+    [
+     "four",
+     0.77,
+     1.1
+    ],
+    [
+     "things",
+     1.1,
+     1.37
+    ],
+    [
+     "will",
+     1.37,
+     1.49
+    ],
+    [
+     "happen",
+     1.49,
+     1.92
+    ],
+    [
+     "each",
+     2.35,
+     2.64
+    ],
+    [
+     "one",
+     2.64,
+     2.86
+    ],
+    [
+     "brings",
+     2.86,
+     3.15
+    ],
+    [
+     "the",
+     3.15,
+     3.21
+    ],
+    [
+     "photographer",
+     3.21,
+     3.76
+    ],
+    [
+     "closer",
+     3.76,
+     4.33
+    ]
+   ],
+   "onset": 0.165,
+   "offset": 4.3
+  },
+  {
+   "id": "L017",
+   "beat": "B02",
+   "section": "hook",
+   "text": "After that, we need to talk about when it was taken.",
+   "dur": 3.335,
+   "file": "out/lines/L017.wav",
+   "words": [
+    [
+     "after",
+     0.195,
+     0.405
+    ],
+    [
+     "that",
+     0.405,
+     0.875
+    ],
+    [
+     "we",
+     1.065,
+     1.235
+    ],
+    [
+     "need",
+     1.235,
+     1.395
+    ],
+    [
+     "to",
+     1.395,
+     1.465
+    ],
+    [
+     "talk",
+     1.465,
+     1.705
+    ],
+    [
+     "about",
+     1.705,
+     1.985
+    ],
+    [
+     "when",
+     1.985,
+     2.415
+    ],
+    [
+     "it",
+     2.415,
+     2.475
+    ],
+    [
+     "was",
+     2.475,
+     2.645
+    ],
+    [
+     "taken",
+     2.645,
+     3.045
+    ]
+   ],
+   "onset": 0.185,
+   "offset": 3.025
+  },
+  {
+   "id": "L018",
+   "beat": "B02",
+   "section": "thing1",
+   "text": "One. It was taken from far away.",
+   "dur": 3.175,
+   "file": "out/lines/L018.wav",
+   "words": [
+    [
+     "one",
+     0.555,
+     0.845
+    ],
+    [
+     "it",
+     1.465,
+     1.605
+    ],
+    [
+     "was",
+     1.605,
+     1.765
+    ],
+    [
+     "taken",
+     1.765,
+     2.085
+    ],
+    [
+     "from",
+     2.085,
+     2.305
+    ],
+    [
+     "far",
+     2.305,
+     2.575
+    ],
+    [
+     "away",
+     2.575,
+     2.855
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.875
+  },
+  {
+   "id": "L019",
+   "beat": "B02",
+   "section": "thing1",
+   "text": "Look at the edges. The frame is slightly crooked.",
+   "dur": 2.93,
+   "file": "out/lines/L019.wav",
+   "words": [
+    [
+     "look",
+     0.23,
+     0.35
+    ],
+    [
+     "at",
+     0.35,
+     0.41
+    ],
+    [
+     "the",
+     0.41,
+     0.56
+    ],
+    [
+     "edges",
+     0.56,
+     0.9
+    ],
+    [
+     "the",
+     1.33,
+     1.42
+    ],
+    [
+     "frame",
+     1.42,
+     1.72
+    ],
+    [
+     "is",
+     1.72,
+     1.79
+    ],
+    [
+     "slightly",
+     1.79,
+     2.17
+    ],
+    [
+     "crooked",
+     2.17,
+     2.64
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.63
+  },
+  {
+   "id": "L020",
+   "beat": "B02",
+   "section": "thing1",
+   "text": "Like someone was trying very hard not to be seen.",
+   "dur": 3.44,
+   "file": "out/lines/L020.wav",
+   "words": [
+    [
+     "like",
+     0.23,
+     0.4
+    ],
+    [
+     "someone",
+     0.4,
+     0.65
+    ],
+    [
+     "was",
+     0.65,
+     0.84
+    ],
+    [
+     "trying",
+     0.84,
+     1.3
+    ],
+    [
+     "very",
+     1.3,
+     1.53
+    ],
+    [
+     "hard",
+     1.53,
+     1.88
+    ],
+    [
+     "not",
+     1.88,
+     2.14
+    ],
+    [
+     "to",
+     2.14,
+     2.26
+    ],
+    [
+     "be",
+     2.26,
+     2.39
+    ],
+    [
+     "seen",
+     2.39,
+     2.78
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.12
+  },
+  {
+   "id": "L021",
+   "beat": "B02",
+   "section": "thing1",
+   "text": "Now look at what you are doing in it.",
+   "dur": 2.005,
+   "file": "out/lines/L021.wav",
+   "words": [
+    [
+     "now",
+     0.26,
+     0.52
+    ],
+    [
+     "look",
+     0.52,
+     0.72
+    ],
+    [
+     "at",
+     0.72,
+     0.79
+    ],
+    [
+     "what",
+     0.79,
+     0.97
+    ],
+    [
+     "you",
+     0.97,
+     1.09
+    ],
+    [
+     "are",
+     1.09,
+     1.18
+    ],
+    [
+     "doing",
+     1.18,
+     1.47
+    ],
+    [
+     "in",
+     1.47,
+     1.58
+    ],
+    [
+     "it",
+     1.58,
+     1.71
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 1.705
+  },
+  {
+   "id": "L022",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "Nothing. A bus stop. A coffee. Staring at nothing in particular.",
+   "dur": 5.735,
+   "file": "out/lines/L022.wav",
+   "words": [
+    [
+     "nothing",
+     0.27,
+     0.74
+    ],
+    [
+     "a",
+     1.48,
+     1.58
+    ],
+    [
+     "bus",
+     1.58,
+     1.79
+    ],
+    [
+     "stop",
+     1.79,
+     2.18
+    ],
+    [
+     "a",
+     2.67,
+     2.74
+    ],
+    [
+     "coffee",
+     2.74,
+     3.14
+    ],
+    [
+     "staring",
+     3.74,
+     4.15
+    ],
+    [
+     "at",
+     4.15,
+     4.32
+    ],
+    [
+     "nothing",
+     4.32,
+     4.69
+    ],
+    [
+     "in",
+     4.69,
+     4.82
+    ],
+    [
+     "particular",
+     4.82,
+     5.46
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 5.425
+  },
+  {
+   "id": "L023",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "Not posing. Not performing. Not holding your stomach in.",
+   "dur": 4.035,
+   "file": "out/lines/L023.wav",
+   "words": [
+    [
+     "not",
+     0.255,
+     0.425
+    ],
+    [
+     "posing",
+     0.425,
+     1.205
+    ],
+    [
+     "not",
+     1.485,
+     1.685
+    ],
+    [
+     "performing",
+     1.685,
+     2.395
+    ],
+    [
+     "not",
+     2.785,
+     2.945
+    ],
+    [
+     "holding",
+     2.945,
+     3.255
+    ],
+    [
+     "your",
+     3.255,
+     3.375
+    ],
+    [
+     "stomach",
+     3.375,
+     3.755
+    ],
+    [
+     "in",
+     3.755,
+     3.985
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.975
+  },
+  {
+   "id": "L024",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "You have not looked like that in a photograph for years.",
+   "dur": 4.275,
+   "file": "out/lines/L024.wav",
+   "words": [
+    [
+     "you",
+     0.91,
+     1.23
+    ],
+    [
+     "have",
+     1.23,
+     1.37
+    ],
+    [
+     "not",
+     1.37,
+     1.59
+    ],
+    [
+     "looked",
+     1.59,
+     1.84
+    ],
+    [
+     "like",
+     1.84,
+     2.04
+    ],
+    [
+     "that",
+     2.04,
+     2.57
+    ],
+    [
+     "in",
+     2.57,
+     2.68
+    ],
+    [
+     "a",
+     2.68,
+     2.72
+    ],
+    [
+     "photograph",
+     2.72,
+     3.25
+    ],
+    [
+     "for",
+     3.25,
+     3.42
+    ],
+    [
+     "years",
+     3.42,
+     3.96
+    ]
+   ],
+   "onset": 0.1,
+   "offset": 3.97
+  },
+  {
+   "id": "L025",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "Here is the only rule that matters today.",
+   "dur": 2.455,
+   "file": "out/lines/L025.wav",
+   "words": [
+    [
+     "here",
+     0.24,
+     0.4
+    ],
+    [
+     "is",
+     0.4,
+     0.52
+    ],
+    [
+     "the",
+     0.52,
+     0.63
+    ],
+    [
+     "only",
+     0.63,
+     0.83
+    ],
+    [
+     "rule",
+     0.83,
+     1.1
+    ],
+    [
+     "that",
+     1.1,
+     1.22
+    ],
+    [
+     "matters",
+     1.22,
+     1.56
+    ],
+    [
+     "today",
+     1.56,
+     1.92
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 1.91
+  },
+  {
+   "id": "L026",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "Do not ask who took it. Ask when.",
+   "dur": 3.155,
+   "file": "out/lines/L026.wav",
+   "words": [
+    [
+     "do",
+     0.035,
+     0.145
+    ],
+    [
+     "not",
+     0.145,
+     0.515
+    ],
+    [
+     "ask",
+     0.515,
+     0.875
+    ],
+    [
+     "who",
+     0.875,
+     1.035
+    ],
+    [
+     "took",
+     1.035,
+     1.245
+    ],
+    [
+     "it",
+     1.245,
+     1.475
+    ],
+    [
+     "ask",
+     1.985,
+     2.305
+    ],
+    [
+     "when",
+     2.305,
+     2.835
+    ]
+   ],
+   "onset": 0.055,
+   "offset": 2.85
+  },
+  {
+   "id": "L027",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "Asking who sends you looking for a stranger.",
+   "dur": 2.76,
+   "file": "out/lines/L027.wav",
+   "words": [
+    [
+     "asking",
+     0.265,
+     0.685
+    ],
+    [
+     "who",
+     0.685,
+     1.125
+    ],
+    [
+     "sends",
+     1.125,
+     1.435
+    ],
+    [
+     "you",
+     1.435,
+     1.525
+    ],
+    [
+     "looking",
+     1.525,
+     1.865
+    ],
+    [
+     "for",
+     1.865,
+     2.035
+    ],
+    [
+     "a",
+     2.035,
+     2.065
+    ],
+    [
+     "stranger",
+     2.065,
+     2.665
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.655
+  },
+  {
+   "id": "L028",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "And strangers are a poor use of an evening.",
+   "dur": 3.145,
+   "file": "out/lines/L028.wav",
+   "words": [
+    [
+     "and",
+     0.195,
+     0.315
+    ],
+    [
+     "strangers",
+     0.315,
+     0.845
+    ],
+    [
+     "are",
+     0.845,
+     1.085
+    ],
+    [
+     "a",
+     1.085,
+     1.115
+    ],
+    [
+     "poor",
+     1.115,
+     1.455
+    ],
+    [
+     "use",
+     1.455,
+     1.715
+    ],
+    [
+     "of",
+     1.715,
+     1.815
+    ],
+    [
+     "an",
+     1.815,
+     1.915
+    ],
+    [
+     "evening",
+     1.915,
+     2.295
+    ]
+   ],
+   "onset": 0.155,
+   "offset": 2.81
+  },
+  {
+   "id": "L029",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "You have been checking faces on the street since you found it.",
+   "dur": 2.975,
+   "file": "out/lines/L029.wav",
+   "words": [
+    [
+     "you",
+     0.06,
+     0.18
+    ],
+    [
+     "have",
+     0.18,
+     0.33
+    ],
+    [
+     "been",
+     0.33,
+     0.49
+    ],
+    [
+     "checking",
+     0.49,
+     0.82
+    ],
+    [
+     "faces",
+     0.82,
+     1.22
+    ],
+    [
+     "on",
+     1.22,
+     1.33
+    ],
+    [
+     "the",
+     1.33,
+     1.39
+    ],
+    [
+     "street",
+     1.39,
+     1.82
+    ],
+    [
+     "since",
+     1.82,
+     2.12
+    ],
+    [
+     "you",
+     2.12,
+     2.21
+    ],
+    [
+     "found",
+     2.21,
+     2.51
+    ],
+    [
+     "it",
+     2.51,
+     2.67
+    ]
+   ],
+   "onset": 0.055,
+   "offset": 2.67
+  },
+  {
+   "id": "L030",
+   "beat": "B03",
+   "section": "thing1",
+   "text": "It was not them. Management counted. You checked forty one.",
+   "dur": 4.165,
+   "file": "out/lines/L030.wav",
+   "words": [
+    [
+     "it",
+     0.265,
+     0.375
+    ],
+    [
+     "was",
+     0.375,
+     0.545
+    ],
+    [
+     "not",
+     0.545,
+     0.735
+    ],
+    [
+     "them",
+     0.735,
+     1.055
+    ],
+    [
+     "management",
+     1.575,
+     2.095
+    ],
+    [
+     "counted",
+     2.095,
+     2.565
+    ],
+    [
+     "you",
+     3.075,
+     3.165
+    ],
+    [
+     "checked",
+     3.165,
+     3.395
+    ],
+    [
+     "forty",
+     3.395,
+     3.615
+    ],
+    [
+     "one",
+     3.615,
+     3.965
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 3.965
+  },
+  {
+   "id": "L031",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "Two. It will not stay the same.",
+   "dur": 3.67,
+   "file": "out/lines/L031.wav",
+   "words": [
+    [
+     "two",
+     0.21,
+     0.66
+    ],
+    [
+     "it",
+     1.48,
+     1.66
+    ],
+    [
+     "will",
+     1.66,
+     1.84
+    ],
+    [
+     "not",
+     1.84,
+     2.06
+    ],
+    [
+     "stay",
+     2.06,
+     2.28
+    ],
+    [
+     "the",
+     2.28,
+     2.4
+    ],
+    [
+     "same",
+     2.4,
+     2.85
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.57
+  },
+  {
+   "id": "L032",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "Put it down. Look away. Look back.",
+   "dur": 3.185,
+   "file": "out/lines/L032.wav",
+   "words": [
+    [
+     "put",
+     0.0,
+     0.14
+    ],
+    [
+     "it",
+     0.14,
+     0.23
+    ],
+    [
+     "down",
+     0.23,
+     0.7
+    ],
+    [
+     "look",
+     1.08,
+     1.26
+    ],
+    [
+     "away",
+     1.26,
+     1.75
+    ],
+    [
+     "look",
+     2.28,
+     2.51
+    ],
+    [
+     "back",
+     2.51,
+     2.91
+    ]
+   ],
+   "onset": 0.015,
+   "offset": 2.88
+  },
+  {
+   "id": "L033",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "There is a scarf now.",
+   "dur": 1.66,
+   "file": "out/lines/L033.wav",
+   "words": [
+    [
+     "there",
+     0.0,
+     0.435
+    ],
+    [
+     "is",
+     0.435,
+     0.555
+    ],
+    [
+     "a",
+     0.555,
+     0.595
+    ],
+    [
+     "scarf",
+     0.595,
+     1.035
+    ],
+    [
+     "now",
+     1.035,
+     1.365
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.35
+  },
+  {
+   "id": "L034",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "You do not own a scarf like that. Not yet.",
+   "dur": 3.21,
+   "file": "out/lines/L034.wav",
+   "words": [
+    [
+     "you",
+     0.255,
+     0.385
+    ],
+    [
+     "do",
+     0.385,
+     0.495
+    ],
+    [
+     "not",
+     0.495,
+     0.765
+    ],
+    [
+     "own",
+     0.765,
+     0.995
+    ],
+    [
+     "a",
+     0.995,
+     1.035
+    ],
+    [
+     "scarf",
+     1.035,
+     1.395
+    ],
+    [
+     "like",
+     1.395,
+     1.585
+    ],
+    [
+     "that",
+     1.585,
+     1.865
+    ],
+    [
+     "not",
+     2.505,
+     2.695
+    ],
+    [
+     "yet",
+     2.695,
+     3.045
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.005
+  },
+  {
+   "id": "L035",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "And the photograph has started turning up in other places.",
+   "dur": 4.08,
+   "file": "out/lines/L035.wav",
+   "words": [
+    [
+     "and",
+     0.895,
+     1.065
+    ],
+    [
+     "the",
+     1.065,
+     1.125
+    ],
+    [
+     "photograph",
+     1.125,
+     1.675
+    ],
+    [
+     "has",
+     1.675,
+     1.855
+    ],
+    [
+     "started",
+     1.855,
+     2.275
+    ],
+    [
+     "turning",
+     2.275,
+     2.565
+    ],
+    [
+     "up",
+     2.565,
+     2.745
+    ],
+    [
+     "in",
+     2.745,
+     3.005
+    ],
+    [
+     "other",
+     3.005,
+     3.265
+    ],
+    [
+     "places",
+     3.265,
+     3.855
+    ]
+   ],
+   "onset": 0.09,
+   "offset": 3.84
+  },
+  {
+   "id": "L036",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "In your phone, between two pictures you do remember.",
+   "dur": 4.18,
+   "file": "out/lines/L036.wav",
+   "words": [
+    [
+     "in",
+     0.255,
+     0.375
+    ],
+    [
+     "your",
+     0.375,
+     0.505
+    ],
+    [
+     "phone",
+     0.505,
+     1.075
+    ],
+    [
+     "between",
+     1.345,
+     1.775
+    ],
+    [
+     "two",
+     1.775,
+     2.025
+    ],
+    [
+     "pictures",
+     2.025,
+     2.555
+    ],
+    [
+     "you",
+     2.555,
+     2.785
+    ],
+    [
+     "do",
+     2.785,
+     3.005
+    ],
+    [
+     "remember",
+     3.005,
+     3.625
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.865
+  },
+  {
+   "id": "L037",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "On a shelf, behind someone on a video call.",
+   "dur": 3.66,
+   "file": "out/lines/L037.wav",
+   "words": [
+    [
+     "on",
+     0.235,
+     0.395
+    ],
+    [
+     "a",
+     0.395,
+     0.425
+    ],
+    [
+     "shelf",
+     0.425,
+     0.955
+    ],
+    [
+     "behind",
+     0.955,
+     1.495
+    ],
+    [
+     "someone",
+     1.495,
+     1.985
+    ],
+    [
+     "on",
+     1.985,
+     2.195
+    ],
+    [
+     "a",
+     2.195,
+     2.265
+    ],
+    [
+     "video",
+     2.265,
+     2.595
+    ],
+    [
+     "call",
+     2.595,
+     2.975
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.355
+  },
+  {
+   "id": "L038",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "In a photo booth strip, between three strangers pulling faces.",
+   "dur": 4.34,
+   "file": "out/lines/L038.wav",
+   "words": [
+    [
+     "in",
+     0.2,
+     0.35
+    ],
+    [
+     "a",
+     0.35,
+     0.39
+    ],
+    [
+     "photo",
+     0.39,
+     0.7
+    ],
+    [
+     "booth",
+     0.7,
+     0.94
+    ],
+    [
+     "strip",
+     0.94,
+     1.36
+    ],
+    [
+     "between",
+     1.36,
+     2.23
+    ],
+    [
+     "three",
+     2.23,
+     2.56
+    ],
+    [
+     "strangers",
+     2.56,
+     3.17
+    ],
+    [
+     "pulling",
+     3.17,
+     3.51
+    ],
+    [
+     "faces",
+     3.51,
+     4.02
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 4.04
+  },
+  {
+   "id": "L039",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "In the window of a shop you only ever walk past.",
+   "dur": 3.345,
+   "file": "out/lines/L039.wav",
+   "words": [
+    [
+     "in",
+     0.265,
+     0.375
+    ],
+    [
+     "the",
+     0.375,
+     0.435
+    ],
+    [
+     "window",
+     0.435,
+     0.825
+    ],
+    [
+     "of",
+     0.825,
+     0.925
+    ],
+    [
+     "a",
+     0.925,
+     0.965
+    ],
+    [
+     "shop",
+     0.965,
+     1.395
+    ],
+    [
+     "you",
+     1.395,
+     1.725
+    ],
+    [
+     "only",
+     1.725,
+     2.095
+    ],
+    [
+     "ever",
+     2.095,
+     2.285
+    ],
+    [
+     "walk",
+     2.285,
+     2.585
+    ],
+    [
+     "past",
+     2.585,
+     3.045
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.045
+  },
+  {
+   "id": "L040",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "Do not go looking for the others.",
+   "dur": 2.665,
+   "file": "out/lines/L040.wav",
+   "words": [
+    [
+     "do",
+     0.195,
+     0.345
+    ],
+    [
+     "not",
+     0.345,
+     0.575
+    ],
+    [
+     "go",
+     0.575,
+     0.745
+    ],
+    [
+     "looking",
+     0.745,
+     1.115
+    ],
+    [
+     "for",
+     1.115,
+     1.245
+    ],
+    [
+     "the",
+     1.245,
+     1.415
+    ],
+    [
+     "others",
+     1.415,
+     1.815
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.355
+  },
+  {
+   "id": "L041",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "In every one of them, you look tidy and unbothered.",
+   "dur": 4.01,
+   "file": "out/lines/L041.wav",
+   "words": [
+    [
+     "in",
+     0.065,
+     0.175
+    ],
+    [
+     "every",
+     0.175,
+     0.335
+    ],
+    [
+     "one",
+     0.335,
+     0.535
+    ],
+    [
+     "of",
+     0.535,
+     0.635
+    ],
+    [
+     "them",
+     0.635,
+     0.865
+    ],
+    [
+     "you",
+     1.435,
+     1.545
+    ],
+    [
+     "look",
+     1.545,
+     1.745
+    ],
+    [
+     "tidy",
+     1.745,
+     2.395
+    ],
+    [
+     "and",
+     2.395,
+     3.005
+    ],
+    [
+     "unbothered",
+     3.005,
+     3.735
+    ]
+   ],
+   "onset": 0.025,
+   "offset": 3.705
+  },
+  {
+   "id": "L042",
+   "beat": "B04",
+   "section": "thing2",
+   "text": "That is not a keepsake. That is a trailer.",
+   "dur": 3.305,
+   "file": "out/lines/L042.wav",
+   "words": [
+    [
+     "that",
+     0.225,
+     0.355
+    ],
+    [
+     "is",
+     0.355,
+     0.505
+    ],
+    [
+     "not",
+     0.505,
+     0.665
+    ],
+    [
+     "a",
+     0.665,
+     0.705
+    ],
+    [
+     "keepsake",
+     0.705,
+     1.365
+    ],
+    [
+     "that",
+     1.865,
+     2.245
+    ],
+    [
+     "is",
+     2.315,
+     2.465
+    ],
+    [
+     "a",
+     2.465,
+     2.515
+    ],
+    [
+     "trailer",
+     2.515,
+     3.115
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.07
+  },
+  {
+   "id": "L043",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Three. You are not alone in it.",
+   "dur": 3.44,
+   "file": "out/lines/L043.wav",
+   "words": [
+    [
+     "three",
+     0.19,
+     0.61
+    ],
+    [
+     "you",
+     1.53,
+     1.74
+    ],
+    [
+     "are",
+     1.74,
+     1.9
+    ],
+    [
+     "not",
+     1.9,
+     2.17
+    ],
+    [
+     "alone",
+     2.17,
+     2.65
+    ],
+    [
+     "in",
+     2.65,
+     2.89
+    ],
+    [
+     "it",
+     2.89,
+     3.17
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.14
+  },
+  {
+   "id": "L044",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "At the edge of the frame, there is a hand on your shoulder.",
+   "dur": 3.51,
+   "file": "out/lines/L044.wav",
+   "words": [
+    [
+     "at",
+     0.285,
+     0.425
+    ],
+    [
+     "the",
+     0.425,
+     0.605
+    ],
+    [
+     "edge",
+     0.605,
+     0.795
+    ],
+    [
+     "of",
+     0.795,
+     0.895
+    ],
+    [
+     "the",
+     0.895,
+     0.985
+    ],
+    [
+     "frame",
+     0.985,
+     1.495
+    ],
+    [
+     "there",
+     1.495,
+     1.675
+    ],
+    [
+     "is",
+     1.675,
+     1.795
+    ],
+    [
+     "a",
+     1.795,
+     1.835
+    ],
+    [
+     "hand",
+     1.835,
+     2.385
+    ],
+    [
+     "on",
+     2.385,
+     2.595
+    ],
+    [
+     "your",
+     2.595,
+     2.765
+    ],
+    [
+     "shoulder",
+     2.765,
+     3.225
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.21
+  },
+  {
+   "id": "L045",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Someone is standing beside you, cropped out.",
+   "dur": 2.88,
+   "file": "out/lines/L045.wav",
+   "words": [
+    [
+     "someone",
+     0.185,
+     0.605
+    ],
+    [
+     "is",
+     0.605,
+     0.775
+    ],
+    [
+     "standing",
+     0.775,
+     1.205
+    ],
+    [
+     "beside",
+     1.205,
+     1.645
+    ],
+    [
+     "you",
+     1.645,
+     2.035
+    ],
+    [
+     "cropped",
+     2.165,
+     2.565
+    ],
+    [
+     "out",
+     2.565,
+     2.845
+    ]
+   ],
+   "onset": 0.16,
+   "offset": 2.8
+  },
+  {
+   "id": "L046",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Whoever it is, you are laughing at something they said.",
+   "dur": 3.48,
+   "file": "out/lines/L046.wav",
+   "words": [
+    [
+     "whoever",
+     0.27,
+     0.69
+    ],
+    [
+     "it",
+     0.69,
+     0.76
+    ],
+    [
+     "is",
+     0.76,
+     1.07
+    ],
+    [
+     "you",
+     1.29,
+     1.59
+    ],
+    [
+     "are",
+     1.59,
+     1.71
+    ],
+    [
+     "laughing",
+     1.71,
+     2.2
+    ],
+    [
+     "at",
+     2.2,
+     2.33
+    ],
+    [
+     "something",
+     2.33,
+     2.71
+    ],
+    [
+     "they",
+     2.71,
+     2.86
+    ],
+    [
+     "said",
+     2.86,
+     3.21
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.18
+  },
+  {
+   "id": "L047",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Look at that laugh. The real one.",
+   "dur": 2.08,
+   "file": "out/lines/L047.wav",
+   "words": [
+    [
+     "look",
+     0.225,
+     0.395
+    ],
+    [
+     "at",
+     0.395,
+     0.455
+    ],
+    [
+     "that",
+     0.455,
+     0.625
+    ],
+    [
+     "laugh",
+     0.625,
+     0.995
+    ],
+    [
+     "the",
+     1.455,
+     1.535
+    ],
+    [
+     "real",
+     1.535,
+     1.865
+    ],
+    [
+     "one",
+     1.865,
+     2.045
+    ]
+   ],
+   "onset": 0.215,
+   "offset": 2.075
+  },
+  {
+   "id": "L048",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "The one that escapes before you can manage it.",
+   "dur": 2.89,
+   "file": "out/lines/L048.wav",
+   "words": [
+    [
+     "the",
+     0.0,
+     0.045
+    ],
+    [
+     "one",
+     0.565,
+     0.795
+    ],
+    [
+     "that",
+     0.795,
+     0.935
+    ],
+    [
+     "escapes",
+     0.935,
+     1.415
+    ],
+    [
+     "before",
+     1.415,
+     1.765
+    ],
+    [
+     "you",
+     1.765,
+     1.895
+    ],
+    [
+     "can",
+     1.895,
+     2.035
+    ],
+    [
+     "manage",
+     2.035,
+     2.445
+    ],
+    [
+     "it",
+     2.445,
+     2.605
+    ]
+   ],
+   "onset": 0.0,
+   "offset": 2.58
+  },
+  {
+   "id": "L049",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Nobody gets that face on request.",
+   "dur": 2.61,
+   "file": "out/lines/L049.wav",
+   "words": [
+    [
+     "nobody",
+     0.43,
+     0.78
+    ],
+    [
+     "gets",
+     0.78,
+     1.0
+    ],
+    [
+     "that",
+     1.0,
+     1.21
+    ],
+    [
+     "face",
+     1.21,
+     1.56
+    ],
+    [
+     "on",
+     1.56,
+     1.74
+    ],
+    [
+     "request",
+     1.74,
+     2.32
+    ]
+   ],
+   "onset": 0.09,
+   "offset": 2.305
+  },
+  {
+   "id": "L050",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "People photograph you saying cheese.",
+   "dur": 2.265,
+   "file": "out/lines/L050.wav",
+   "words": [
+    [
+     "people",
+     0.085,
+     0.425
+    ],
+    [
+     "photograph",
+     0.425,
+     0.955
+    ],
+    [
+     "you",
+     0.955,
+     1.065
+    ],
+    [
+     "saying",
+     1.065,
+     1.405
+    ],
+    [
+     "cheese",
+     1.405,
+     1.915
+    ]
+   ],
+   "onset": 0.1,
+   "offset": 2.215
+  },
+  {
+   "id": "L051",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Cheese is a performance. This is not cheese.",
+   "dur": 3.68,
+   "file": "out/lines/L051.wav",
+   "words": [
+    [
+     "cheese",
+     0.01,
+     0.63
+    ],
+    [
+     "is",
+     0.71,
+     0.91
+    ],
+    [
+     "a",
+     0.91,
+     0.96
+    ],
+    [
+     "performance",
+     0.96,
+     1.62
+    ],
+    [
+     "this",
+     2.14,
+     2.5
+    ],
+    [
+     "is",
+     2.5,
+     2.72
+    ],
+    [
+     "not",
+     2.72,
+     2.98
+    ],
+    [
+     "cheese",
+     2.98,
+     3.38
+    ]
+   ],
+   "onset": 0.035,
+   "offset": 3.38
+  },
+  {
+   "id": "L052",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Do not ask whose hand it is. Ask when.",
+   "dur": 3.475,
+   "file": "out/lines/L052.wav",
+   "words": [
+    [
+     "do",
+     0.175,
+     0.305
+    ],
+    [
+     "not",
+     0.305,
+     0.505
+    ],
+    [
+     "ask",
+     0.505,
+     0.835
+    ],
+    [
+     "whose",
+     0.835,
+     1.325
+    ],
+    [
+     "hand",
+     1.325,
+     1.735
+    ],
+    [
+     "it",
+     1.735,
+     1.845
+    ],
+    [
+     "is",
+     1.845,
+     2.125
+    ],
+    [
+     "ask",
+     2.535,
+     2.835
+    ],
+    [
+     "when",
+     2.835,
+     3.175
+    ]
+   ],
+   "onset": 0.2,
+   "offset": 3.165
+  },
+  {
+   "id": "L053",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Now turn it over.",
+   "dur": 1.095,
+   "file": "out/lines/L053.wav",
+   "words": [
+    [
+     "now",
+     0.375,
+     0.505
+    ],
+    [
+     "turn",
+     0.505,
+     0.725
+    ],
+    [
+     "it",
+     0.725,
+     0.835
+    ],
+    [
+     "over",
+     0.835,
+     1.065
+    ]
+   ],
+   "onset": 0.025,
+   "offset": 1.09
+  },
+  {
+   "id": "L054",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "(Keep it.)",
+   "speaker": "W",
+   "dur": 1.8,
+   "file": null,
+   "words": []
+  },
+  {
+   "id": "L055",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "It is in your handwriting.",
+   "dur": 1.885,
+   "file": "out/lines/L055.wav",
+   "words": [
+    [
+     "it",
+     0.0,
+     0.0
+    ],
+    [
+     "is",
+     0.26,
+     0.51
+    ],
+    [
+     "in",
+     0.51,
+     0.66
+    ],
+    [
+     "your",
+     0.66,
+     1.01
+    ],
+    [
+     "handwriting",
+     1.01,
+     1.59
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.575
+  },
+  {
+   "id": "L056",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Do not compare it with your own. Do not hold it to the light.",
+   "dur": 3.43,
+   "file": "out/lines/L056.wav",
+   "words": [
+    [
+     "do",
+     0.205,
+     0.305
+    ],
+    [
+     "not",
+     0.305,
+     0.485
+    ],
+    [
+     "compare",
+     0.485,
+     0.905
+    ],
+    [
+     "it",
+     0.905,
+     0.975
+    ],
+    [
+     "with",
+     0.975,
+     1.175
+    ],
+    [
+     "your",
+     1.175,
+     1.375
+    ],
+    [
+     "own",
+     1.375,
+     1.555
+    ],
+    [
+     "do",
+     2.055,
+     2.175
+    ],
+    [
+     "not",
+     2.175,
+     2.375
+    ],
+    [
+     "hold",
+     2.375,
+     2.645
+    ],
+    [
+     "it",
+     2.645,
+     2.735
+    ],
+    [
+     "to",
+     2.735,
+     2.835
+    ],
+    [
+     "the",
+     2.835,
+     2.905
+    ],
+    [
+     "light",
+     2.905,
+     3.265
+    ]
+   ],
+   "onset": 0.135,
+   "offset": 3.24
+  },
+  {
+   "id": "L057",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "You have done both.",
+   "dur": 1.49,
+   "file": "out/lines/L057.wav",
+   "words": [
+    [
+     "you",
+     0.255,
+     0.445
+    ],
+    [
+     "have",
+     0.445,
+     0.625
+    ],
+    [
+     "done",
+     0.625,
+     0.855
+    ],
+    [
+     "both",
+     0.855,
+     1.185
+    ]
+   ],
+   "onset": 0.27,
+   "offset": 1.19
+  },
+  {
+   "id": "L058",
+   "beat": "B05",
+   "section": "thing3",
+   "text": "Management has compared it. It is yours.",
+   "dur": 3.105,
+   "file": "out/lines/L058.wav",
+   "words": [
+    [
+     "management",
+     0.025,
+     0.775
+    ],
+    [
+     "has",
+     0.775,
+     0.985
+    ],
+    [
+     "compared",
+     0.985,
+     1.435
+    ],
+    [
+     "it",
+     1.435,
+     1.605
+    ],
+    [
+     "it",
+     2.065,
+     2.245
+    ],
+    [
+     "is",
+     2.245,
+     2.435
+    ],
+    [
+     "yours",
+     2.435,
+     2.855
+    ]
+   ],
+   "onset": 0.07,
+   "offset": 2.845
+  },
+  {
+   "id": "L059",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Four. It will be warm.",
+   "dur": 3.28,
+   "file": "out/lines/L059.wav",
+   "words": [
+    [
+     "four",
+     0.68,
+     1.3
+    ],
+    [
+     "it",
+     1.88,
+     2.01
+    ],
+    [
+     "will",
+     2.01,
+     2.28
+    ],
+    [
+     "be",
+     2.28,
+     2.43
+    ],
+    [
+     "warm",
+     2.43,
+     3.0
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.975
+  },
+  {
+   "id": "L060",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Warm like it just came out of the camera. Warm like a hand.",
+   "dur": 3.915,
+   "file": "out/lines/L060.wav",
+   "words": [
+    [
+     "warm",
+     0.14,
+     0.41
+    ],
+    [
+     "like",
+     0.41,
+     0.67
+    ],
+    [
+     "it",
+     0.67,
+     0.82
+    ],
+    [
+     "just",
+     0.82,
+     1.04
+    ],
+    [
+     "came",
+     1.04,
+     1.28
+    ],
+    [
+     "out",
+     1.28,
+     1.38
+    ],
+    [
+     "of",
+     1.38,
+     1.48
+    ],
+    [
+     "the",
+     1.48,
+     1.56
+    ],
+    [
+     "camera",
+     1.56,
+     2.08
+    ],
+    [
+     "warm",
+     2.59,
+     2.85
+    ],
+    [
+     "like",
+     2.85,
+     3.03
+    ],
+    [
+     "a",
+     3.03,
+     3.07
+    ],
+    [
+     "hand",
+     3.07,
+     3.62
+    ]
+   ],
+   "onset": 0.02,
+   "offset": 3.61
+  },
+  {
+   "id": "L061",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Each time you look, the laugh is a little wider.",
+   "dur": 3.31,
+   "file": "out/lines/L061.wav",
+   "words": [
+    [
+     "each",
+     0.255,
+     0.465
+    ],
+    [
+     "time",
+     0.465,
+     0.665
+    ],
+    [
+     "you",
+     0.665,
+     0.775
+    ],
+    [
+     "look",
+     0.775,
+     1.195
+    ],
+    [
+     "the",
+     1.195,
+     1.295
+    ],
+    [
+     "laugh",
+     1.295,
+     1.715
+    ],
+    [
+     "is",
+     1.715,
+     2.125
+    ],
+    [
+     "a",
+     2.185,
+     2.215
+    ],
+    [
+     "little",
+     2.215,
+     2.535
+    ],
+    [
+     "wider",
+     2.535,
+     3.015
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.0
+  },
+  {
+   "id": "L062",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "The photograph is not finished. Neither is the moment.",
+   "dur": 3.79,
+   "file": "out/lines/L062.wav",
+   "words": [
+    [
+     "the",
+     0.255,
+     0.325
+    ],
+    [
+     "photograph",
+     0.325,
+     0.805
+    ],
+    [
+     "is",
+     0.805,
+     0.945
+    ],
+    [
+     "not",
+     0.945,
+     1.105
+    ],
+    [
+     "finished",
+     1.105,
+     1.645
+    ],
+    [
+     "neither",
+     1.945,
+     2.325
+    ],
+    [
+     "is",
+     2.325,
+     2.455
+    ],
+    [
+     "the",
+     2.455,
+     2.525
+    ],
+    [
+     "moment",
+     2.525,
+     2.935
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.66
+  },
+  {
+   "id": "L063",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Management finds this the most unsettling item on the list.",
+   "dur": 3.67,
+   "file": "out/lines/L063.wav",
+   "words": [
+    [
+     "management",
+     0.055,
+     0.585
+    ],
+    [
+     "finds",
+     0.585,
+     0.935
+    ],
+    [
+     "this",
+     0.935,
+     1.245
+    ],
+    [
+     "the",
+     1.245,
+     1.335
+    ],
+    [
+     "most",
+     1.335,
+     1.735
+    ],
+    [
+     "unsettling",
+     1.735,
+     2.465
+    ],
+    [
+     "item",
+     2.465,
+     2.775
+    ],
+    [
+     "on",
+     2.775,
+     2.895
+    ],
+    [
+     "the",
+     2.895,
+     2.955
+    ],
+    [
+     "list",
+     2.955,
+     3.345
+    ]
+   ],
+   "onset": 0.06,
+   "offset": 3.36
+  },
+  {
+   "id": "L064",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Do not put it in a drawer.",
+   "dur": 1.95,
+   "file": "out/lines/L064.wav",
+   "words": [
+    [
+     "do",
+     0.195,
+     0.385
+    ],
+    [
+     "not",
+     0.385,
+     0.595
+    ],
+    [
+     "put",
+     0.595,
+     0.805
+    ],
+    [
+     "it",
+     0.805,
+     0.935
+    ],
+    [
+     "in",
+     0.935,
+     1.105
+    ],
+    [
+     "a",
+     1.105,
+     1.155
+    ],
+    [
+     "drawer",
+     1.155,
+     1.685
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.625
+  },
+  {
+   "id": "L065",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "A drawer is where you keep things you are afraid of.",
+   "dur": 3.33,
+   "file": "out/lines/L065.wav",
+   "words": [
+    [
+     "a",
+     0.155,
+     0.225
+    ],
+    [
+     "drawer",
+     0.225,
+     0.565
+    ],
+    [
+     "is",
+     0.565,
+     0.685
+    ],
+    [
+     "where",
+     0.685,
+     0.825
+    ],
+    [
+     "you",
+     0.825,
+     0.955
+    ],
+    [
+     "keep",
+     0.955,
+     1.215
+    ],
+    [
+     "things",
+     1.215,
+     1.515
+    ],
+    [
+     "you",
+     1.515,
+     1.645
+    ],
+    [
+     "are",
+     1.645,
+     1.825
+    ],
+    [
+     "afraid",
+     1.825,
+     2.235
+    ],
+    [
+     "of",
+     2.235,
+     2.445
+    ]
+   ],
+   "onset": 0.115,
+   "offset": 2.98
+  },
+  {
+   "id": "L066",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "Keep it where you can see it.",
+   "dur": 1.16,
+   "file": "out/lines/L066.wav",
+   "words": [
+    [
+     "keep",
+     0.11,
+     0.29
+    ],
+    [
+     "it",
+     0.29,
+     0.38
+    ],
+    [
+     "where",
+     0.38,
+     0.55
+    ],
+    [
+     "you",
+     0.55,
+     0.64
+    ],
+    [
+     "can",
+     0.64,
+     0.78
+    ],
+    [
+     "see",
+     0.78,
+     0.99
+    ],
+    [
+     "it",
+     0.99,
+     1.16
+    ]
+   ],
+   "onset": 0.075,
+   "offset": 1.085
+  },
+  {
+   "id": "L067",
+   "beat": "B06",
+   "section": "thing4",
+   "text": "It is the only photograph you own that is still happening.",
+   "dur": 3.69,
+   "file": "out/lines/L067.wav",
+   "words": [
+    [
+     "it",
+     0.68,
+     0.79
+    ],
+    [
+     "is",
+     0.79,
+     0.94
+    ],
+    [
+     "the",
+     0.94,
+     1.04
+    ],
+    [
+     "only",
+     1.04,
+     1.27
+    ],
+    [
+     "photograph",
+     1.27,
+     1.83
+    ],
+    [
+     "you",
+     1.83,
+     1.99
+    ],
+    [
+     "own",
+     1.99,
+     2.31
+    ],
+    [
+     "that",
+     2.31,
+     2.59
+    ],
+    [
+     "is",
+     2.59,
+     2.71
+    ],
+    [
+     "still",
+     2.71,
+     3.06
+    ],
+    [
+     "happening",
+     3.06,
+     3.51
+    ]
+   ],
+   "onset": 0.075,
+   "offset": 3.48
+  },
+  {
+   "id": "L068",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "Now. When it was taken.",
+   "dur": 2.375,
+   "file": "out/lines/L068.wav",
+   "words": [
+    [
+     "now",
+     0.26,
+     0.44
+    ],
+    [
+     "when",
+     0.44,
+     1.37
+    ],
+    [
+     "it",
+     1.37,
+     1.45
+    ],
+    [
+     "was",
+     1.45,
+     1.62
+    ],
+    [
+     "taken",
+     1.62,
+     1.96
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.075
+  },
+  {
+   "id": "L069",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "Check the corner.",
+   "dur": 1.255,
+   "file": "out/lines/L069.wav",
+   "words": [
+    [
+     "check",
+     0.245,
+     0.425
+    ],
+    [
+     "the",
+     0.425,
+     0.505
+    ],
+    [
+     "corner",
+     0.505,
+     0.965
+    ]
+   ],
+   "onset": 0.205,
+   "offset": 0.945
+  },
+  {
+   "id": "L070",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "You asked how close. Wrong unit.",
+   "dur": 2.395,
+   "file": "out/lines/L070.wav",
+   "words": [
+    [
+     "you",
+     0.095,
+     0.255
+    ],
+    [
+     "asked",
+     0.255,
+     0.425
+    ],
+    [
+     "how",
+     0.425,
+     0.565
+    ],
+    [
+     "close",
+     0.565,
+     1.105
+    ],
+    [
+     "wrong",
+     1.415,
+     1.715
+    ],
+    [
+     "unit",
+     1.715,
+     2.115
+    ]
+   ],
+   "onset": 0.07,
+   "offset": 2.09
+  },
+  {
+   "id": "L071",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "It was never far away in space. It was far away in time.",
+   "dur": 3.67,
+   "file": "out/lines/L071.wav",
+   "words": [
+    [
+     "it",
+     0.25,
+     0.34
+    ],
+    [
+     "was",
+     0.34,
+     0.5
+    ],
+    [
+     "never",
+     0.5,
+     0.7
+    ],
+    [
+     "far",
+     0.7,
+     0.96
+    ],
+    [
+     "away",
+     0.96,
+     1.15
+    ],
+    [
+     "in",
+     1.15,
+     1.28
+    ],
+    [
+     "space",
+     1.28,
+     1.83
+    ],
+    [
+     "it",
+     1.83,
+     2.0
+    ],
+    [
+     "was",
+     2.0,
+     2.31
+    ],
+    [
+     "far",
+     2.31,
+     2.54
+    ],
+    [
+     "away",
+     2.54,
+     2.76
+    ],
+    [
+     "in",
+     2.76,
+     2.9
+    ],
+    [
+     "time",
+     2.9,
+     3.38
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.37
+  },
+  {
+   "id": "L072",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "Nobody followed you. The photograph has not happened yet.",
+   "dur": 3.82,
+   "file": "out/lines/L072.wav",
+   "words": [
+    [
+     "nobody",
+     0.17,
+     0.43
+    ],
+    [
+     "followed",
+     0.43,
+     0.79
+    ],
+    [
+     "you",
+     0.79,
+     1.02
+    ],
+    [
+     "the",
+     1.79,
+     1.88
+    ],
+    [
+     "photograph",
+     1.88,
+     2.41
+    ],
+    [
+     "has",
+     2.41,
+     2.61
+    ],
+    [
+     "not",
+     2.61,
+     2.83
+    ],
+    [
+     "happened",
+     2.83,
+     3.3
+    ],
+    [
+     "yet",
+     3.3,
+     3.61
+    ]
+   ],
+   "onset": 0.14,
+   "offset": 3.605
+  },
+  {
+   "id": "L073",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "You are looking at a Tuesday that has not arrived.",
+   "dur": 2.915,
+   "file": "out/lines/L073.wav",
+   "words": [
+    [
+     "you",
+     0.235,
+     0.405
+    ],
+    [
+     "are",
+     0.405,
+     0.475
+    ],
+    [
+     "looking",
+     0.475,
+     0.815
+    ],
+    [
+     "at",
+     0.815,
+     0.915
+    ],
+    [
+     "a",
+     0.915,
+     0.965
+    ],
+    [
+     "tuesday",
+     0.965,
+     1.505
+    ],
+    [
+     "that",
+     1.505,
+     1.685
+    ],
+    [
+     "has",
+     1.685,
+     1.875
+    ],
+    [
+     "not",
+     1.875,
+     2.085
+    ],
+    [
+     "arrived",
+     2.085,
+     2.625
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 2.61
+  },
+  {
+   "id": "L074",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "The scarf. The hand on your shoulder. The laugh.",
+   "dur": 3.515,
+   "file": "out/lines/L074.wav",
+   "words": [
+    [
+     "the",
+     0.11,
+     0.2
+    ],
+    [
+     "scarf",
+     0.2,
+     0.73
+    ],
+    [
+     "the",
+     1.28,
+     1.36
+    ],
+    [
+     "hand",
+     1.36,
+     1.6
+    ],
+    [
+     "on",
+     1.6,
+     1.71
+    ],
+    [
+     "your",
+     1.71,
+     1.81
+    ],
+    [
+     "shoulder",
+     1.81,
+     2.37
+    ],
+    [
+     "the",
+     2.7,
+     2.81
+    ],
+    [
+     "laugh",
+     2.81,
+     3.29
+    ]
+   ],
+   "onset": 0.135,
+   "offset": 3.295
+  },
+  {
+   "id": "L075",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "All of it is on its way.",
+   "dur": 1.545,
+   "file": "out/lines/L075.wav",
+   "words": [
+    [
+     "all",
+     0.235,
+     0.425
+    ],
+    [
+     "of",
+     0.425,
+     0.505
+    ],
+    [
+     "it",
+     0.505,
+     0.585
+    ],
+    [
+     "is",
+     0.585,
+     0.745
+    ],
+    [
+     "on",
+     0.745,
+     0.865
+    ],
+    [
+     "its",
+     0.865,
+     1.005
+    ],
+    [
+     "way",
+     1.005,
+     1.305
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.31
+  },
+  {
+   "id": "L076",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "You have been bracing for next year like a weather report.",
+   "dur": 3.785,
+   "file": "out/lines/L076.wav",
+   "words": [
+    [
+     "you",
+     0.27,
+     0.4
+    ],
+    [
+     "have",
+     0.4,
+     0.49
+    ],
+    [
+     "been",
+     0.49,
+     0.69
+    ],
+    [
+     "bracing",
+     0.69,
+     1.09
+    ],
+    [
+     "for",
+     1.09,
+     1.22
+    ],
+    [
+     "next",
+     1.22,
+     1.53
+    ],
+    [
+     "year",
+     1.53,
+     1.67
+    ],
+    [
+     "like",
+     1.67,
+     1.99
+    ],
+    [
+     "a",
+     2.56,
+     2.61
+    ],
+    [
+     "weather",
+     2.61,
+     2.92
+    ],
+    [
+     "report",
+     2.92,
+     3.47
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.485
+  },
+  {
+   "id": "L077",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "And someone sent you the one good photograph from it.",
+   "dur": 3.245,
+   "file": "out/lines/L077.wav",
+   "words": [
+    [
+     "and",
+     0.15,
+     0.33
+    ],
+    [
+     "someone",
+     0.33,
+     0.6
+    ],
+    [
+     "sent",
+     0.6,
+     0.81
+    ],
+    [
+     "you",
+     0.81,
+     1.02
+    ],
+    [
+     "the",
+     1.02,
+     1.12
+    ],
+    [
+     "one",
+     1.12,
+     1.56
+    ],
+    [
+     "good",
+     1.56,
+     1.92
+    ],
+    [
+     "photograph",
+     1.92,
+     2.47
+    ],
+    [
+     "from",
+     2.47,
+     2.74
+    ],
+    [
+     "it",
+     2.74,
+     2.93
+    ]
+   ],
+   "onset": 0.11,
+   "offset": 2.91
+  },
+  {
+   "id": "L078",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "In advance. With a note.",
+   "dur": 2.12,
+   "file": "out/lines/L078.wav",
+   "words": [
+    [
+     "in",
+     0.06,
+     0.19
+    ],
+    [
+     "advance",
+     0.19,
+     0.69
+    ],
+    [
+     "with",
+     1.28,
+     1.42
+    ],
+    [
+     "a",
+     1.42,
+     1.45
+    ],
+    [
+     "note",
+     1.45,
+     1.82
+    ]
+   ],
+   "onset": 0.025,
+   "offset": 1.8
+  },
+  {
+   "id": "L079",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "It is a generous thing to send. It is a poor way to deliver it.",
+   "dur": 4.395,
+   "file": "out/lines/L079.wav",
+   "words": [
+    [
+     "it",
+     0.275,
+     0.395
+    ],
+    [
+     "is",
+     0.395,
+     0.545
+    ],
+    [
+     "a",
+     0.545,
+     0.615
+    ],
+    [
+     "generous",
+     0.615,
+     1.035
+    ],
+    [
+     "thing",
+     1.035,
+     1.225
+    ],
+    [
+     "to",
+     1.225,
+     1.285
+    ],
+    [
+     "send",
+     1.285,
+     1.625
+    ],
+    [
+     "it",
+     2.585,
+     2.705
+    ],
+    [
+     "is",
+     2.705,
+     2.835
+    ],
+    [
+     "a",
+     2.835,
+     2.885
+    ],
+    [
+     "poor",
+     2.885,
+     3.195
+    ],
+    [
+     "way",
+     3.195,
+     3.365
+    ],
+    [
+     "to",
+     3.365,
+     3.485
+    ],
+    [
+     "deliver",
+     3.485,
+     3.895
+    ],
+    [
+     "it",
+     3.895,
+     4.105
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 4.095
+  },
+  {
+   "id": "L080",
+   "beat": "B07",
+   "section": "reveal",
+   "text": "And you spent the evening checking strangers.",
+   "dur": 2.16,
+   "file": "out/lines/L080.wav",
+   "words": [
+    [
+     "and",
+     0.18,
+     0.31
+    ],
+    [
+     "you",
+     0.31,
+     0.39
+    ],
+    [
+     "spent",
+     0.39,
+     0.64
+    ],
+    [
+     "the",
+     0.64,
+     0.71
+    ],
+    [
+     "evening",
+     0.71,
+     1.06
+    ],
+    [
+     "checking",
+     1.06,
+     1.42
+    ],
+    [
+     "strangers",
+     1.42,
+     1.95
+    ]
+   ],
+   "onset": 0.14,
+   "offset": 1.935
+  },
+  {
+   "id": "L081",
+   "beat": "B08",
+   "section": "escape",
+   "text": "So here is how you keep it.",
+   "dur": 2.54,
+   "file": "out/lines/L081.wav",
+   "words": [
+    [
+     "so",
+     0.235,
+     0.535
+    ],
+    [
+     "here",
+     0.755,
+     1.065
+    ],
+    [
+     "is",
+     1.065,
+     1.245
+    ],
+    [
+     "how",
+     1.245,
+     1.385
+    ],
+    [
+     "you",
+     1.385,
+     1.575
+    ],
+    [
+     "keep",
+     1.575,
+     1.815
+    ],
+    [
+     "it",
+     1.815,
+     2.025
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.98
+  },
+  {
+   "id": "L082",
+   "beat": "B08",
+   "section": "escape",
+   "text": "Do nothing about it.",
+   "dur": 1.065,
+   "file": "out/lines/L082.wav",
+   "words": [
+    [
+     "do",
+     0.07,
+     0.19
+    ],
+    [
+     "nothing",
+     0.19,
+     0.49
+    ],
+    [
+     "about",
+     0.49,
+     0.75
+    ],
+    [
+     "it",
+     0.75,
+     0.96
+    ]
+   ],
+   "onset": 0.08,
+   "offset": 0.95
+  },
+  {
+   "id": "L083",
+   "beat": "B08",
+   "section": "escape",
+   "text": "Do not look for the bus stop. Do not buy the scarf.",
+   "dur": 3.445,
+   "file": "out/lines/L083.wav",
+   "words": [
+    [
+     "do",
+     0.185,
+     0.325
+    ],
+    [
+     "not",
+     0.325,
+     0.495
+    ],
+    [
+     "look",
+     0.495,
+     0.705
+    ],
+    [
+     "for",
+     0.705,
+     0.805
+    ],
+    [
+     "the",
+     0.805,
+     0.895
+    ],
+    [
+     "bus",
+     0.895,
+     1.105
+    ],
+    [
+     "stop",
+     1.105,
+     1.765
+    ],
+    [
+     "do",
+     1.765,
+     1.975
+    ],
+    [
+     "not",
+     1.975,
+     2.225
+    ],
+    [
+     "buy",
+     2.225,
+     2.625
+    ],
+    [
+     "the",
+     2.625,
+     2.725
+    ],
+    [
+     "scarf",
+     2.725,
+     3.385
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.365
+  },
+  {
+   "id": "L084",
+   "beat": "B08",
+   "section": "escape",
+   "text": "Do not try to arrange the laugh. Moments built on purpose come out stiff.",
+   "dur": 4.72,
+   "file": "out/lines/L084.wav",
+   "words": [
+    [
+     "do",
+     0.0,
+     0.14
+    ],
+    [
+     "not",
+     0.14,
+     0.31
+    ],
+    [
+     "try",
+     0.31,
+     0.54
+    ],
+    [
+     "to",
+     0.54,
+     0.96
+    ],
+    [
+     "arrange",
+     0.96,
+     1.32
+    ],
+    [
+     "the",
+     1.32,
+     1.45
+    ],
+    [
+     "laugh",
+     1.45,
+     1.93
+    ],
+    [
+     "moments",
+     2.53,
+     2.9
+    ],
+    [
+     "built",
+     2.9,
+     3.17
+    ],
+    [
+     "on",
+     3.17,
+     3.31
+    ],
+    [
+     "purpose",
+     3.31,
+     3.74
+    ],
+    [
+     "come",
+     3.74,
+     3.98
+    ],
+    [
+     "out",
+     3.98,
+     4.16
+    ],
+    [
+     "stiff",
+     4.16,
+     4.58
+    ]
+   ],
+   "onset": 0.05,
+   "offset": 4.605
+  },
+  {
+   "id": "L085",
+   "beat": "B08",
+   "section": "escape",
+   "text": "Go to work. Come home. Pass the photograph on the way to the kettle.",
+   "dur": 4.655,
+   "file": "out/lines/L085.wav",
+   "words": [
+    [
+     "go",
+     0.29,
+     0.4
+    ],
+    [
+     "to",
+     0.4,
+     0.46
+    ],
+    [
+     "work",
+     0.46,
+     0.88
+    ],
+    [
+     "come",
+     1.33,
+     1.54
+    ],
+    [
+     "home",
+     1.54,
+     1.96
+    ],
+    [
+     "pass",
+     2.62,
+     2.89
+    ],
+    [
+     "the",
+     2.89,
+     2.97
+    ],
+    [
+     "photograph",
+     2.97,
+     3.65
+    ],
+    [
+     "on",
+     3.65,
+     3.77
+    ],
+    [
+     "the",
+     3.77,
+     3.83
+    ],
+    [
+     "way",
+     3.83,
+     4.0
+    ],
+    [
+     "to",
+     4.0,
+     4.11
+    ],
+    [
+     "the",
+     4.11,
+     4.21
+    ],
+    [
+     "kettle",
+     4.21,
+     4.6
+    ]
+   ],
+   "onset": 0.295,
+   "offset": 4.56
+  },
+  {
+   "id": "L086",
+   "beat": "B08",
+   "section": "escape",
+   "text": "And live the days in between.",
+   "dur": 1.965,
+   "file": "out/lines/L086.wav",
+   "words": [
+    [
+     "and",
+     0.265,
+     0.595
+    ],
+    [
+     "live",
+     0.595,
+     0.925
+    ],
+    [
+     "the",
+     0.925,
+     1.005
+    ],
+    [
+     "days",
+     1.005,
+     1.335
+    ],
+    [
+     "in",
+     1.335,
+     1.435
+    ],
+    [
+     "between",
+     1.435,
+     1.945
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.935
+  },
+  {
+   "id": "L087",
+   "beat": "B08",
+   "section": "escape",
+   "text": "All four hundred and twelve. The ordinary ones too.",
+   "dur": 4.205,
+   "file": "out/lines/L087.wav",
+   "words": [
+    [
+     "all",
+     0.52,
+     0.81
+    ],
+    [
+     "four",
+     0.81,
+     1.19
+    ],
+    [
+     "hundred",
+     1.19,
+     1.49
+    ],
+    [
+     "and",
+     1.49,
+     1.61
+    ],
+    [
+     "twelve",
+     1.61,
+     2.07
+    ],
+    [
+     "the",
+     2.72,
+     2.89
+    ],
+    [
+     "ordinary",
+     2.89,
+     3.32
+    ],
+    [
+     "ones",
+     3.32,
+     3.63
+    ],
+    [
+     "too",
+     3.63,
+     3.96
+    ]
+   ],
+   "onset": 0.085,
+   "offset": 3.895
+  },
+  {
+   "id": "L088",
+   "beat": "B08",
+   "section": "escape",
+   "text": "The bad ones are part of the route.",
+   "dur": 2.48,
+   "file": "out/lines/L088.wav",
+   "words": [
+    [
+     "the",
+     0.165,
+     0.285
+    ],
+    [
+     "bad",
+     0.285,
+     0.505
+    ],
+    [
+     "ones",
+     0.505,
+     0.915
+    ],
+    [
+     "are",
+     0.915,
+     1.055
+    ],
+    [
+     "part",
+     1.055,
+     1.355
+    ],
+    [
+     "of",
+     1.355,
+     1.455
+    ],
+    [
+     "the",
+     1.455,
+     1.535
+    ],
+    [
+     "route",
+     1.535,
+     1.885
+    ]
+   ],
+   "onset": 0.14,
+   "offset": 2.155
+  },
+  {
+   "id": "L089",
+   "beat": "B08",
+   "section": "escape",
+   "text": "Do not hurry the date. Do not pose.",
+   "dur": 2.67,
+   "file": "out/lines/L089.wav",
+   "words": [
+    [
+     "do",
+     0.04,
+     0.15
+    ],
+    [
+     "not",
+     0.15,
+     0.34
+    ],
+    [
+     "hurry",
+     0.34,
+     0.63
+    ],
+    [
+     "the",
+     0.63,
+     0.74
+    ],
+    [
+     "date",
+     0.74,
+     1.08
+    ],
+    [
+     "do",
+     1.56,
+     1.66
+    ],
+    [
+     "not",
+     1.66,
+     1.83
+    ],
+    [
+     "pose",
+     1.83,
+     2.37
+    ]
+   ],
+   "onset": 0.06,
+   "offset": 2.365
+  },
+  {
+   "id": "L090",
+   "beat": "B08",
+   "section": "escape",
+   "text": "The number will shrink without your help.",
+   "dur": 2.195,
+   "file": "out/lines/L090.wav",
+   "words": [
+    [
+     "the",
+     0.045,
+     0.175
+    ],
+    [
+     "number",
+     0.175,
+     0.465
+    ],
+    [
+     "will",
+     0.465,
+     0.645
+    ],
+    [
+     "shrink",
+     0.645,
+     1.095
+    ],
+    [
+     "without",
+     1.095,
+     1.465
+    ],
+    [
+     "your",
+     1.465,
+     1.595
+    ],
+    [
+     "help",
+     1.595,
+     1.935
+    ]
+   ],
+   "onset": 0.075,
+   "offset": 1.935
+  },
+  {
+   "id": "L091",
+   "beat": "B09",
+   "section": "escape",
+   "text": "Check the corner.",
+   "dur": 1.77,
+   "file": "out/lines/L091.wav",
+   "words": [
+    [
+     "check",
+     0.78,
+     0.97
+    ],
+    [
+     "the",
+     0.97,
+     1.06
+    ],
+    [
+     "corner",
+     1.06,
+     1.59
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 1.47
+  },
+  {
+   "id": "L092",
+   "beat": "B09",
+   "section": "escape",
+   "text": "And then, on an ordinary Tuesday, someone beside you will say something small.",
+   "dur": 5.29,
+   "file": "out/lines/L092.wav",
+   "words": [
+    [
+     "and",
+     0.29,
+     0.39
+    ],
+    [
+     "then",
+     0.39,
+     0.75
+    ],
+    [
+     "on",
+     0.75,
+     0.97
+    ],
+    [
+     "an",
+     0.97,
+     1.11
+    ],
+    [
+     "ordinary",
+     1.11,
+     1.63
+    ],
+    [
+     "tuesday",
+     1.63,
+     2.16
+    ],
+    [
+     "someone",
+     2.74,
+     3.05
+    ],
+    [
+     "beside",
+     3.05,
+     3.43
+    ],
+    [
+     "you",
+     3.43,
+     3.64
+    ],
+    [
+     "will",
+     3.64,
+     3.83
+    ],
+    [
+     "say",
+     3.83,
+     4.05
+    ],
+    [
+     "something",
+     4.05,
+     4.53
+    ],
+    [
+     "small",
+     4.53,
+     5.0
+    ]
+   ],
+   "onset": 0.245,
+   "offset": 4.98
+  },
+  {
+   "id": "L093",
+   "beat": "B09",
+   "section": "escape",
+   "text": "You will laugh before you can manage it.",
+   "dur": 1.94,
+   "file": "out/lines/L093.wav",
+   "words": [
+    [
+     "you",
+     0.045,
+     0.155
+    ],
+    [
+     "will",
+     0.155,
+     0.275
+    ],
+    [
+     "laugh",
+     0.275,
+     0.685
+    ],
+    [
+     "before",
+     0.685,
+     1.005
+    ],
+    [
+     "you",
+     1.005,
+     1.085
+    ],
+    [
+     "can",
+     1.085,
+     1.235
+    ],
+    [
+     "manage",
+     1.235,
+     1.615
+    ],
+    [
+     "it",
+     1.615,
+     1.845
+    ]
+   ],
+   "onset": 0.01,
+   "offset": 1.755
+  },
+  {
+   "id": "L094",
+   "beat": "B09",
+   "section": "escape",
+   "text": "Somewhere, a shutter clicks. Right on time.",
+   "dur": 4.18,
+   "file": "out/lines/L094.wav",
+   "words": [
+    [
+     "somewhere",
+     0.815,
+     1.305
+    ],
+    [
+     "a",
+     1.305,
+     1.445
+    ],
+    [
+     "shutter",
+     1.445,
+     1.785
+    ],
+    [
+     "clicks",
+     1.785,
+     2.245
+    ],
+    [
+     "right",
+     3.215,
+     3.395
+    ],
+    [
+     "on",
+     3.395,
+     3.525
+    ],
+    [
+     "time",
+     3.525,
+     3.915
+    ]
+   ],
+   "onset": 0.19,
+   "offset": 3.875
+  },
+  {
+   "id": "L095",
+   "beat": "B09",
+   "section": "turn",
+   "text": "One more thing.",
+   "dur": 0.85,
+   "file": "out/lines/L095.wav",
+   "words": [
+    [
+     "one",
+     0.35,
+     0.45
+    ],
+    [
+     "more",
+     0.45,
+     0.59
+    ],
+    [
+     "thing",
+     0.59,
+     0.85
+    ]
+   ],
+   "onset": 0.065,
+   "offset": 0.84
+  },
+  {
+   "id": "L096",
+   "beat": "B09",
+   "section": "turn",
+   "text": "Earlier, Management told you not to show it to anyone.",
+   "dur": 3.68,
+   "file": "out/lines/L096.wav",
+   "words": [
+    [
+     "earlier",
+     0.59,
+     1.09
+    ],
+    [
+     "management",
+     1.18,
+     1.73
+    ],
+    [
+     "told",
+     1.73,
+     1.97
+    ],
+    [
+     "you",
+     1.97,
+     2.17
+    ],
+    [
+     "not",
+     2.17,
+     2.44
+    ],
+    [
+     "to",
+     2.44,
+     2.57
+    ],
+    [
+     "show",
+     2.57,
+     2.8
+    ],
+    [
+     "it",
+     2.8,
+     2.86
+    ],
+    [
+     "to",
+     2.86,
+     2.96
+    ],
+    [
+     "anyone",
+     2.96,
+     3.37
+    ]
+   ],
+   "onset": 0.05,
+   "offset": 3.37
+  },
+  {
+   "id": "L097",
+   "beat": "B09",
+   "section": "turn",
+   "text": "Management has reviewed that advice.",
+   "dur": 2.75,
+   "file": "out/lines/L097.wav",
+   "words": [
+    [
+     "management",
+     0.6,
+     1.16
+    ],
+    [
+     "has",
+     1.16,
+     1.38
+    ],
+    [
+     "reviewed",
+     1.38,
+     1.81
+    ],
+    [
+     "that",
+     1.81,
+     1.95
+    ],
+    [
+     "advice",
+     1.95,
+     2.46
+    ]
+   ],
+   "onset": 0.15,
+   "offset": 2.45
+  },
+  {
+   "id": "L098",
+   "beat": "B09",
+   "section": "turn",
+   "text": "Frame it. Put it where people can see it.",
+   "dur": 2.825,
+   "file": "out/lines/L098.wav",
+   "words": [
+    [
+     "frame",
+     0.245,
+     0.515
+    ],
+    [
+     "it",
+     0.515,
+     0.755
+    ],
+    [
+     "put",
+     1.425,
+     1.575
+    ],
+    [
+     "it",
+     1.575,
+     1.635
+    ],
+    [
+     "where",
+     1.635,
+     1.785
+    ],
+    [
+     "people",
+     1.785,
+     2.055
+    ],
+    [
+     "can",
+     2.055,
+     2.205
+    ],
+    [
+     "see",
+     2.205,
+     2.435
+    ],
+    [
+     "it",
+     2.435,
+     2.555
+    ]
+   ],
+   "onset": 0.23,
+   "offset": 2.745
+  },
+  {
+   "id": "L099",
+   "beat": "B09",
+   "section": "turn",
+   "text": "Management has to correct the record.",
+   "dur": 2.87,
+   "file": "out/lines/L099.wav",
+   "words": [
+    [
+     "management",
+     0.205,
+     0.785
+    ],
+    [
+     "has",
+     0.785,
+     1.015
+    ],
+    [
+     "to",
+     1.015,
+     1.185
+    ],
+    [
+     "correct",
+     1.185,
+     1.595
+    ],
+    [
+     "the",
+     1.595,
+     1.675
+    ],
+    [
+     "record",
+     1.675,
+     2.185
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.68
+  },
+  {
+   "id": "L100",
+   "beat": "B09",
+   "section": "turn",
+   "text": "Nobody was following you. Nobody took anything from you.",
+   "dur": 3.465,
+   "file": "out/lines/L100.wav",
+   "words": [
+    [
+     "nobody",
+     0.125,
+     0.395
+    ],
+    [
+     "was",
+     0.395,
+     0.575
+    ],
+    [
+     "following",
+     0.575,
+     0.995
+    ],
+    [
+     "you",
+     0.995,
+     1.365
+    ],
+    [
+     "nobody",
+     1.925,
+     2.185
+    ],
+    [
+     "took",
+     2.185,
+     2.475
+    ],
+    [
+     "anything",
+     2.475,
+     2.805
+    ],
+    [
+     "from",
+     2.805,
+     3.005
+    ],
+    [
+     "you",
+     3.005,
+     3.215
+    ]
+   ],
+   "onset": 0.115,
+   "offset": 3.19
+  },
+  {
+   "id": "L101",
+   "beat": "B10",
+   "section": "turn",
+   "text": "It was never surveillance. It was only ever a reminder.",
+   "dur": 4.12,
+   "file": "out/lines/L101.wav",
+   "words": [
+    [
+     "it",
+     0.23,
+     0.35
+    ],
+    [
+     "was",
+     0.35,
+     0.69
+    ],
+    [
+     "never",
+     0.69,
+     1.09
+    ],
+    [
+     "surveillance",
+     1.09,
+     1.82
+    ],
+    [
+     "it",
+     2.34,
+     2.49
+    ],
+    [
+     "was",
+     2.49,
+     2.66
+    ],
+    [
+     "only",
+     2.66,
+     2.99
+    ],
+    [
+     "ever",
+     2.99,
+     3.3
+    ],
+    [
+     "a",
+     3.3,
+     3.34
+    ],
+    [
+     "reminder",
+     3.34,
+     4.0
+    ]
+   ],
+   "onset": 0.145,
+   "offset": 3.975
+  },
+  {
+   "id": "L102",
+   "beat": "B10",
+   "section": "turn",
+   "text": "That one day, someone is going to be glad you were there.",
+   "dur": 3.165,
+   "file": "out/lines/L102.wav",
+   "words": [
+    [
+     "that",
+     0.22,
+     0.38
+    ],
+    [
+     "one",
+     0.38,
+     0.6
+    ],
+    [
+     "day",
+     0.6,
+     0.84
+    ],
+    [
+     "someone",
+     1.14,
+     1.49
+    ],
+    [
+     "is",
+     1.49,
+     1.6
+    ],
+    [
+     "going",
+     1.6,
+     1.79
+    ],
+    [
+     "to",
+     1.79,
+     1.85
+    ],
+    [
+     "be",
+     1.85,
+     1.95
+    ],
+    [
+     "glad",
+     1.95,
+     2.27
+    ],
+    [
+     "you",
+     2.27,
+     2.38
+    ],
+    [
+     "were",
+     2.38,
+     2.5
+    ],
+    [
+     "there",
+     2.5,
+     2.88
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.855
+  },
+  {
+   "id": "L103",
+   "beat": "B10",
+   "section": "turn",
+   "text": "The handwriting was yours.",
+   "dur": 1.445,
+   "file": "out/lines/L103.wav",
+   "words": [
+    [
+     "the",
+     0.115,
+     0.215
+    ],
+    [
+     "handwriting",
+     0.215,
+     0.685
+    ],
+    [
+     "was",
+     0.685,
+     0.815
+    ],
+    [
+     "yours",
+     0.815,
+     1.265
+    ]
+   ],
+   "onset": 0.13,
+   "offset": 1.28
+  },
+  {
+   "id": "L104",
+   "beat": "B10",
+   "section": "turn",
+   "text": "You will write it about four hundred and twelve days from now.",
+   "dur": 3.545,
+   "file": "out/lines/L104.wav",
+   "words": [
+    [
+     "you",
+     0.235,
+     0.405
+    ],
+    [
+     "will",
+     0.405,
+     0.645
+    ],
+    [
+     "write",
+     0.645,
+     0.855
+    ],
+    [
+     "it",
+     0.855,
+     1.075
+    ],
+    [
+     "about",
+     1.075,
+     1.425
+    ],
+    [
+     "four",
+     1.425,
+     1.755
+    ],
+    [
+     "hundred",
+     1.755,
+     2.035
+    ],
+    [
+     "and",
+     2.035,
+     2.155
+    ],
+    [
+     "twelve",
+     2.155,
+     2.485
+    ],
+    [
+     "days",
+     2.485,
+     2.775
+    ],
+    [
+     "from",
+     2.775,
+     2.955
+    ],
+    [
+     "now",
+     2.955,
+     3.255
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 3.245
+  },
+  {
+   "id": "L105",
+   "beat": "B10",
+   "section": "turn",
+   "text": "Tomorrow, you may find another one.",
+   "dur": 2.565,
+   "file": "out/lines/L105.wav",
+   "words": [
+    [
+     "tomorrow",
+     0.595,
+     0.935
+    ],
+    [
+     "you",
+     0.935,
+     1.215
+    ],
+    [
+     "may",
+     1.215,
+     1.415
+    ],
+    [
+     "find",
+     1.415,
+     1.685
+    ],
+    [
+     "another",
+     1.685,
+     1.965
+    ],
+    [
+     "one",
+     1.965,
+     2.315
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 2.26
+  },
+  {
+   "id": "L106",
+   "beat": "B10",
+   "section": "turn",
+   "text": "That is fine. It is only the good days, arriving early.",
+   "dur": 3.83,
+   "file": "out/lines/L106.wav",
+   "words": [
+    [
+     "that",
+     0.235,
+     0.375
+    ],
+    [
+     "is",
+     0.375,
+     0.505
+    ],
+    [
+     "fine",
+     0.505,
+     0.865
+    ],
+    [
+     "it",
+     1.435,
+     1.505
+    ],
+    [
+     "is",
+     1.505,
+     1.645
+    ],
+    [
+     "only",
+     1.645,
+     1.885
+    ],
+    [
+     "the",
+     1.885,
+     1.975
+    ],
+    [
+     "good",
+     1.975,
+     2.205
+    ],
+    [
+     "days",
+     2.205,
+     2.585
+    ],
+    [
+     "arriving",
+     2.735,
+     3.155
+    ],
+    [
+     "early",
+     3.155,
+     3.515
+    ]
+   ],
+   "onset": 0.22,
+   "offset": 3.525
+  },
+  {
+   "id": "L107",
+   "beat": "B10",
+   "section": "turn",
+   "text": "Keep them.",
+   "dur": 0.995,
+   "file": "out/lines/L107.wav",
+   "words": [
+    [
+     "keep",
+     0.285,
+     0.495
+    ],
+    [
+     "them",
+     0.495,
+     0.705
+    ]
+   ],
+   "onset": 0.225,
+   "offset": 0.69
+  },
+  {
+   "id": "L108",
+   "beat": "B10",
+   "section": "turn",
+   "text": "Management regrets the misunderstanding.",
+   "dur": 2.475,
+   "file": "out/lines/L108.wav",
+   "words": [
+    [
+     "management",
+     0.165,
+     0.735
+    ],
+    [
+     "regrets",
+     0.735,
+     1.205
+    ],
+    [
+     "the",
+     1.205,
+     1.275
+    ],
+    [
+     "misunderstanding",
+     1.275,
+     2.165
+    ]
+   ],
+   "onset": 0.16,
+   "offset": 2.175
+  }
+ ],
+ "eq_match_db": {
+  "B01": [
+   -0.49,
+   -0.46,
+   0.56,
+   1.31,
+   0.82,
+   0.77,
+   0.47,
+   -0.01,
+   0.49,
+   0.55,
+   0.08,
+   0.01,
+   0.33,
+   0.47,
+   0.39,
+   0.37,
+   -0.03,
+   -0.36,
+   0.34,
+   0.88,
+   0.5,
+   0.22,
+   0.02
+  ],
+  "B02": [
+   -3.0,
+   -3.0,
+   -2.56,
+   -0.63,
+   0.49,
+   -1.1,
+   -0.95,
+   0.83,
+   0.47,
+   0.07,
+   0.91,
+   0.99,
+   0.29,
+   0.52,
+   1.51,
+   1.96,
+   0.87,
+   -1.31,
+   -2.24,
+   -1.46,
+   -0.73,
+   -0.02,
+   1.06
+  ],
+  "B03": [
+   3.0,
+   2.26,
+   0.95,
+   0.36,
+   0.17,
+   0.32,
+   0.95,
+   0.97,
+   0.37,
+   0.17,
+   0.22,
+   0.16,
+   0.06,
+   -0.34,
+   -0.78,
+   -0.84,
+   -0.35,
+   0.44,
+   1.44,
+   1.79,
+   0.98,
+   0.44,
+   0.44
+  ],
+  "B04": [
+   3.0,
+   2.33,
+   1.0,
+   0.5,
+   0.03,
+   -1.1,
+   -0.9,
+   0.37,
+   1.3,
+   1.57,
+   1.35,
+   0.96,
+   0.29,
+   -0.2,
+   -0.32,
+   -0.39,
+   -0.31,
+   -0.07,
+   -0.24,
+   -0.31,
+   0.43,
+   1.11,
+   1.29
+  ],
+  "B05": [
+   -0.8,
+   0.41,
+   0.55,
+   -0.3,
+   -0.59,
+   -0.09,
+   -0.16,
+   -0.61,
+   -0.52,
+   -0.16,
+   0.18,
+   0.26,
+   -0.16,
+   -0.56,
+   -0.07,
+   0.48,
+   0.57,
+   0.47,
+   0.15,
+   0.35,
+   0.09,
+   -1.03,
+   -1.75
+  ],
+  "B06": [
+   -0.07,
+   -0.63,
+   -0.56,
+   0.56,
+   0.48,
+   -0.03,
+   0.47,
+   0.54,
+   0.32,
+   0.32,
+   0.18,
+   0.14,
+   0.41,
+   0.66,
+   0.42,
+   -0.18,
+   -0.56,
+   -0.32,
+   -0.45,
+   -1.03,
+   0.09,
+   1.88,
+   2.44
+  ],
+  "B07": [
+   -1.38,
+   -0.95,
+   -0.43,
+   -0.01,
+   -0.21,
+   0.09,
+   0.43,
+   -0.1,
+   -0.76,
+   -1.87,
+   -2.35,
+   -2.08,
+   -1.45,
+   0.09,
+   0.86,
+   0.85,
+   0.79,
+   0.14,
+   -0.25,
+   -0.22,
+   -0.61,
+   -0.85,
+   -0.53
+  ],
+  "B08": [
+   1.18,
+   0.0,
+   -1.27,
+   -1.72,
+   -1.24,
+   -0.35,
+   -0.8,
+   -2.33,
+   -2.63,
+   -1.77,
+   -1.15,
+   -1.0,
+   -1.09,
+   -0.92,
+   -0.23,
+   0.56,
+   1.0,
+   0.66,
+   0.01,
+   -0.27,
+   -0.37,
+   -0.2,
+   0.47
+  ],
+  "B09": [
+   0.3,
+   0.34,
+   0.01,
+   -0.5,
+   -0.41,
+   -0.11,
+   0.24,
+   0.65,
+   0.63,
+   0.8,
+   1.05,
+   1.26,
+   1.13,
+   -0.38,
+   -1.53,
+   -1.17,
+   -0.15,
+   0.59,
+   0.25,
+   -0.83,
+   -1.58,
+   -1.87,
+   -2.51
+  ],
+  "B10": [
+   -0.05,
+   0.34,
+   0.31,
+   -0.36,
+   0.14,
+   0.64,
+   0.55,
+   0.49,
+   -0.62,
+   -1.27,
+   -0.27,
+   0.21,
+   -0.22,
+   0.2,
+   0.62,
+   0.02,
+   -0.46,
+   -0.12,
+   0.78,
+   1.46,
+   1.15,
+   -0.34,
+   -2.18
+  ]
+ }
+}

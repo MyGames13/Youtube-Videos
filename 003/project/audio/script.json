@@ -1,0 +1,730 @@
+[
+ {
+  "id": "B01",
+  "section": "hook",
+  "text": "If you find a photo of yourself you never took... keep it. Do not throw it away. Do not show it to anyone. And do not try to remember when it happened. You already looked at it twice. You told yourself it was someone who looks like you. It is not. You have your own ears. A photograph needs a photographer. You would remember a flash. So someone stood close enough to take it, and you did not notice. Management has prepared a short briefing. It will last as long as the photograph stays in your hand. Check the corner.",
+  "chars": 519,
+  "lines": [
+   {
+    "id": "L001",
+    "speaker": "N",
+    "text": "If you find a photo of yourself you never took... keep it.",
+    "section": "hook"
+   },
+   {
+    "id": "L002",
+    "speaker": "N",
+    "text": "Do not throw it away. Do not show it to anyone.",
+    "section": "hook"
+   },
+   {
+    "id": "L003",
+    "speaker": "N",
+    "text": "And do not try to remember when it happened.",
+    "section": "hook"
+   },
+   {
+    "id": "L004",
+    "speaker": "N",
+    "text": "You already looked at it twice.",
+    "section": "hook"
+   },
+   {
+    "id": "L005",
+    "speaker": "N",
+    "text": "You told yourself it was someone who looks like you.",
+    "section": "hook"
+   },
+   {
+    "id": "L006",
+    "speaker": "N",
+    "text": "It is not. You have your own ears.",
+    "section": "hook"
+   },
+   {
+    "id": "L007",
+    "speaker": "N",
+    "text": "A photograph needs a photographer.",
+    "section": "hook"
+   },
+   {
+    "id": "L008",
+    "speaker": "N",
+    "text": "You would remember a flash.",
+    "section": "hook"
+   },
+   {
+    "id": "L009",
+    "speaker": "N",
+    "text": "So someone stood close enough to take it, and you did not notice.",
+    "section": "hook"
+   },
+   {
+    "id": "L010",
+    "speaker": "N",
+    "text": "Management has prepared a short briefing.",
+    "section": "hook"
+   },
+   {
+    "id": "L011",
+    "speaker": "N",
+    "text": "It will last as long as the photograph stays in your hand.",
+    "section": "hook"
+   },
+   {
+    "id": "L012",
+    "speaker": "N",
+    "text": "Check the corner.",
+    "section": "hook"
+   }
+  ]
+ },
+ {
+  "id": "B02",
+  "section": "hook",
+  "text": "A photographer usually stands a few metres away. This one stood forty metres away. That is a great deal of faith to place in a zoom lens. Four things will happen. Each one brings the photographer closer. After that, we need to talk about when it was taken. One. It was taken from far away. Look at the edges. The frame is slightly crooked. Like someone was trying very hard not to be seen. Now look at what you are doing in it.",
+  "chars": 427,
+  "lines": [
+   {
+    "id": "L013",
+    "speaker": "N",
+    "text": "A photographer usually stands a few metres away.",
+    "section": "hook"
+   },
+   {
+    "id": "L014",
+    "speaker": "N",
+    "text": "This one stood forty metres away.",
+    "section": "hook"
+   },
+   {
+    "id": "L015",
+    "speaker": "N",
+    "text": "That is a great deal of faith to place in a zoom lens.",
+    "section": "hook"
+   },
+   {
+    "id": "L016",
+    "speaker": "N",
+    "text": "Four things will happen. Each one brings the photographer closer.",
+    "section": "hook"
+   },
+   {
+    "id": "L017",
+    "speaker": "N",
+    "text": "After that, we need to talk about when it was taken.",
+    "section": "hook"
+   },
+   {
+    "id": "L018",
+    "speaker": "N",
+    "text": "One. It was taken from far away.",
+    "section": "thing1"
+   },
+   {
+    "id": "L019",
+    "speaker": "N",
+    "text": "Look at the edges. The frame is slightly crooked.",
+    "section": "thing1"
+   },
+   {
+    "id": "L020",
+    "speaker": "N",
+    "text": "Like someone was trying very hard not to be seen.",
+    "section": "thing1"
+   },
+   {
+    "id": "L021",
+    "speaker": "N",
+    "text": "Now look at what you are doing in it.",
+    "section": "thing1"
+   }
+  ]
+ },
+ {
+  "id": "B03",
+  "section": "thing1",
+  "text": "Nothing. A bus stop. A coffee. Staring at nothing in particular. Not posing. Not performing. Not holding your stomach in. You have not looked like that in a photograph for years. Here is the only rule that matters today. Do not ask who took it. Ask when. Asking who sends you looking for a stranger. And strangers are a poor use of an evening. You have been checking faces on the street since you found it. It was not them. Management counted. You checked forty one.",
+  "chars": 466,
+  "lines": [
+   {
+    "id": "L022",
+    "speaker": "N",
+    "text": "Nothing. A bus stop. A coffee. Staring at nothing in particular.",
+    "section": "thing1"
+   },
+   {
+    "id": "L023",
+    "speaker": "N",
+    "text": "Not posing. Not performing. Not holding your stomach in.",
+    "section": "thing1"
+   },
+   {
+    "id": "L024",
+    "speaker": "N",
+    "text": "You have not looked like that in a photograph for years.",
+    "section": "thing1"
+   },
+   {
+    "id": "L025",
+    "speaker": "N",
+    "text": "Here is the only rule that matters today.",
+    "section": "thing1"
+   },
+   {
+    "id": "L026",
+    "speaker": "N",
+    "text": "Do not ask who took it. Ask when.",
+    "section": "thing1"
+   },
+   {
+    "id": "L027",
+    "speaker": "N",
+    "text": "Asking who sends you looking for a stranger.",
+    "section": "thing1"
+   },
+   {
+    "id": "L028",
+    "speaker": "N",
+    "text": "And strangers are a poor use of an evening.",
+    "section": "thing1"
+   },
+   {
+    "id": "L029",
+    "speaker": "N",
+    "text": "You have been checking faces on the street since you found it.",
+    "section": "thing1"
+   },
+   {
+    "id": "L030",
+    "speaker": "N",
+    "text": "It was not them. Management counted. You checked forty one.",
+    "section": "thing1"
+   }
+  ]
+ },
+ {
+  "id": "B04",
+  "section": "thing2",
+  "text": "Two. It will not stay the same. Put it down. Look away. Look back. There is a scarf now. You do not own a scarf like that. Not yet. And the photograph has started turning up in other places. In your phone, between two pictures you do remember. On a shelf, behind someone on a video call. In a photo booth strip, between three strangers pulling faces. In the window of a shop you only ever walk past. Do not go looking for the others. In every one of them, you look tidy and unbothered. That is not a keepsake. That is a trailer.",
+  "chars": 528,
+  "lines": [
+   {
+    "id": "L031",
+    "speaker": "N",
+    "text": "Two. It will not stay the same.",
+    "section": "thing2"
+   },
+   {
+    "id": "L032",
+    "speaker": "N",
+    "text": "Put it down. Look away. Look back.",
+    "section": "thing2"
+   },
+   {
+    "id": "L033",
+    "speaker": "N",
+    "text": "There is a scarf now.",
+    "section": "thing2"
+   },
+   {
+    "id": "L034",
+    "speaker": "N",
+    "text": "You do not own a scarf like that. Not yet.",
+    "section": "thing2"
+   },
+   {
+    "id": "L035",
+    "speaker": "N",
+    "text": "And the photograph has started turning up in other places.",
+    "section": "thing2"
+   },
+   {
+    "id": "L036",
+    "speaker": "N",
+    "text": "In your phone, between two pictures you do remember.",
+    "section": "thing2"
+   },
+   {
+    "id": "L037",
+    "speaker": "N",
+    "text": "On a shelf, behind someone on a video call.",
+    "section": "thing2"
+   },
+   {
+    "id": "L038",
+    "speaker": "N",
+    "text": "In a photo booth strip, between three strangers pulling faces.",
+    "section": "thing2"
+   },
+   {
+    "id": "L039",
+    "speaker": "N",
+    "text": "In the window of a shop you only ever walk past.",
+    "section": "thing2"
+   },
+   {
+    "id": "L040",
+    "speaker": "N",
+    "text": "Do not go looking for the others.",
+    "section": "thing2"
+   },
+   {
+    "id": "L041",
+    "speaker": "N",
+    "text": "In every one of them, you look tidy and unbothered.",
+    "section": "thing2"
+   },
+   {
+    "id": "L042",
+    "speaker": "N",
+    "text": "That is not a keepsake. That is a trailer.",
+    "section": "thing2"
+   }
+  ]
+ },
+ {
+  "id": "B05",
+  "section": "thing3",
+  "text": "Three. You are not alone in it. At the edge of the frame, there is a hand on your shoulder. Someone is standing beside you, cropped out. Whoever it is, you are laughing at something they said. Look at that laugh. The real one. The one that escapes before you can manage it. Nobody gets that face on request. People photograph you saying cheese. Cheese is a performance. This is not cheese. Do not ask whose hand it is. Ask when. Now turn it over. It is in your handwriting. Do not compare it with your own. Do not hold it to the light. You have done both. Management has compared it. It is yours.",
+  "chars": 596,
+  "lines": [
+   {
+    "id": "L043",
+    "speaker": "N",
+    "text": "Three. You are not alone in it.",
+    "section": "thing3"
+   },
+   {
+    "id": "L044",
+    "speaker": "N",
+    "text": "At the edge of the frame, there is a hand on your shoulder.",
+    "section": "thing3"
+   },
+   {
+    "id": "L045",
+    "speaker": "N",
+    "text": "Someone is standing beside you, cropped out.",
+    "section": "thing3"
+   },
+   {
+    "id": "L046",
+    "speaker": "N",
+    "text": "Whoever it is, you are laughing at something they said.",
+    "section": "thing3"
+   },
+   {
+    "id": "L047",
+    "speaker": "N",
+    "text": "Look at that laugh. The real one.",
+    "section": "thing3"
+   },
+   {
+    "id": "L048",
+    "speaker": "N",
+    "text": "The one that escapes before you can manage it.",
+    "section": "thing3"
+   },
+   {
+    "id": "L049",
+    "speaker": "N",
+    "text": "Nobody gets that face on request.",
+    "section": "thing3"
+   },
+   {
+    "id": "L050",
+    "speaker": "N",
+    "text": "People photograph you saying cheese.",
+    "section": "thing3"
+   },
+   {
+    "id": "L051",
+    "speaker": "N",
+    "text": "Cheese is a performance. This is not cheese.",
+    "section": "thing3"
+   },
+   {
+    "id": "L052",
+    "speaker": "N",
+    "text": "Do not ask whose hand it is. Ask when.",
+    "section": "thing3"
+   },
+   {
+    "id": "L053",
+    "speaker": "N",
+    "text": "Now turn it over.",
+    "section": "thing3"
+   },
+   {
+    "id": "L054",
+    "speaker": "W",
+    "text": "(Keep it.)",
+    "section": "thing3"
+   },
+   {
+    "id": "L055",
+    "speaker": "N",
+    "text": "It is in your handwriting.",
+    "section": "thing3"
+   },
+   {
+    "id": "L056",
+    "speaker": "N",
+    "text": "Do not compare it with your own. Do not hold it to the light.",
+    "section": "thing3"
+   },
+   {
+    "id": "L057",
+    "speaker": "N",
+    "text": "You have done both.",
+    "section": "thing3"
+   },
+   {
+    "id": "L058",
+    "speaker": "N",
+    "text": "Management has compared it. It is yours.",
+    "section": "thing3"
+   }
+  ]
+ },
+ {
+  "id": "B06",
+  "section": "thing4",
+  "text": "Four. It will be warm. Warm like it just came out of the camera. Warm like a hand. Each time you look, the laugh is a little wider. The photograph is not finished. Neither is the moment. Management finds this the most unsettling item on the list. Do not put it in a drawer. A drawer is where you keep things you are afraid of. Keep it where you can see it. It is the only photograph you own that is still happening.",
+  "chars": 415,
+  "lines": [
+   {
+    "id": "L059",
+    "speaker": "N",
+    "text": "Four. It will be warm.",
+    "section": "thing4"
+   },
+   {
+    "id": "L060",
+    "speaker": "N",
+    "text": "Warm like it just came out of the camera. Warm like a hand.",
+    "section": "thing4"
+   },
+   {
+    "id": "L061",
+    "speaker": "N",
+    "text": "Each time you look, the laugh is a little wider.",
+    "section": "thing4"
+   },
+   {
+    "id": "L062",
+    "speaker": "N",
+    "text": "The photograph is not finished. Neither is the moment.",
+    "section": "thing4"
+   },
+   {
+    "id": "L063",
+    "speaker": "N",
+    "text": "Management finds this the most unsettling item on the list.",
+    "section": "thing4"
+   },
+   {
+    "id": "L064",
+    "speaker": "N",
+    "text": "Do not put it in a drawer.",
+    "section": "thing4"
+   },
+   {
+    "id": "L065",
+    "speaker": "N",
+    "text": "A drawer is where you keep things you are afraid of.",
+    "section": "thing4"
+   },
+   {
+    "id": "L066",
+    "speaker": "N",
+    "text": "Keep it where you can see it.",
+    "section": "thing4"
+   },
+   {
+    "id": "L067",
+    "speaker": "N",
+    "text": "It is the only photograph you own that is still happening.",
+    "section": "thing4"
+   }
+  ]
+ },
+ {
+  "id": "B07",
+  "section": "reveal",
+  "text": "Now. When it was taken. Check the corner. You asked how close. Wrong unit. It was never far away in space. It was far away in time. Nobody followed you. The photograph has not happened yet. You are looking at a Tuesday that has not arrived. The scarf. The hand on your shoulder. The laugh. All of it is on its way. You have been bracing for next year like a weather report. And someone sent you the one good photograph from it. In advance. With a note. It is a generous thing to send. It is a poor way to deliver it. And you spent the evening checking strangers.",
+  "chars": 562,
+  "lines": [
+   {
+    "id": "L068",
+    "speaker": "N",
+    "text": "Now. When it was taken.",
+    "section": "reveal"
+   },
+   {
+    "id": "L069",
+    "speaker": "N",
+    "text": "Check the corner.",
+    "section": "reveal"
+   },
+   {
+    "id": "L070",
+    "speaker": "N",
+    "text": "You asked how close. Wrong unit.",
+    "section": "reveal"
+   },
+   {
+    "id": "L071",
+    "speaker": "N",
+    "text": "It was never far away in space. It was far away in time.",
+    "section": "reveal"
+   },
+   {
+    "id": "L072",
+    "speaker": "N",
+    "text": "Nobody followed you. The photograph has not happened yet.",
+    "section": "reveal"
+   },
+   {
+    "id": "L073",
+    "speaker": "N",
+    "text": "You are looking at a Tuesday that has not arrived.",
+    "section": "reveal"
+   },
+   {
+    "id": "L074",
+    "speaker": "N",
+    "text": "The scarf. The hand on your shoulder. The laugh.",
+    "section": "reveal"
+   },
+   {
+    "id": "L075",
+    "speaker": "N",
+    "text": "All of it is on its way.",
+    "section": "reveal"
+   },
+   {
+    "id": "L076",
+    "speaker": "N",
+    "text": "You have been bracing for next year like a weather report.",
+    "section": "reveal"
+   },
+   {
+    "id": "L077",
+    "speaker": "N",
+    "text": "And someone sent you the one good photograph from it.",
+    "section": "reveal"
+   },
+   {
+    "id": "L078",
+    "speaker": "N",
+    "text": "In advance. With a note.",
+    "section": "reveal"
+   },
+   {
+    "id": "L079",
+    "speaker": "N",
+    "text": "It is a generous thing to send. It is a poor way to deliver it.",
+    "section": "reveal"
+   },
+   {
+    "id": "L080",
+    "speaker": "N",
+    "text": "And you spent the evening checking strangers.",
+    "section": "reveal"
+   }
+  ]
+ },
+ {
+  "id": "B08",
+  "section": "escape",
+  "text": "So here is how you keep it. Do nothing about it. Do not look for the bus stop. Do not buy the scarf. Do not try to arrange the laugh. Moments built on purpose come out stiff. Go to work. Come home. Pass the photograph on the way to the kettle. And live the days in between. All four hundred and twelve. The ordinary ones too. The bad ones are part of the route. Do not hurry the date. Do not pose. The number will shrink without your help.",
+  "chars": 439,
+  "lines": [
+   {
+    "id": "L081",
+    "speaker": "N",
+    "text": "So here is how you keep it.",
+    "section": "escape"
+   },
+   {
+    "id": "L082",
+    "speaker": "N",
+    "text": "Do nothing about it.",
+    "section": "escape"
+   },
+   {
+    "id": "L083",
+    "speaker": "N",
+    "text": "Do not look for the bus stop. Do not buy the scarf.",
+    "section": "escape"
+   },
+   {
+    "id": "L084",
+    "speaker": "N",
+    "text": "Do not try to arrange the laugh. Moments built on purpose come out stiff.",
+    "section": "escape"
+   },
+   {
+    "id": "L085",
+    "speaker": "N",
+    "text": "Go to work. Come home. Pass the photograph on the way to the kettle.",
+    "section": "escape"
+   },
+   {
+    "id": "L086",
+    "speaker": "N",
+    "text": "And live the days in between.",
+    "section": "escape"
+   },
+   {
+    "id": "L087",
+    "speaker": "N",
+    "text": "All four hundred and twelve. The ordinary ones too.",
+    "section": "escape"
+   },
+   {
+    "id": "L088",
+    "speaker": "N",
+    "text": "The bad ones are part of the route.",
+    "section": "escape"
+   },
+   {
+    "id": "L089",
+    "speaker": "N",
+    "text": "Do not hurry the date. Do not pose.",
+    "section": "escape"
+   },
+   {
+    "id": "L090",
+    "speaker": "N",
+    "text": "The number will shrink without your help.",
+    "section": "escape"
+   }
+  ]
+ },
+ {
+  "id": "B09",
+  "section": "escape",
+  "text": "Check the corner. And then, on an ordinary Tuesday, someone beside you will say something small. You will laugh before you can manage it. Somewhere, a shutter clicks. Right on time. One more thing. Earlier, Management told you not to show it to anyone. Management has reviewed that advice. Frame it. Put it where people can see it. Management has to correct the record. Nobody was following you. Nobody took anything from you.",
+  "chars": 426,
+  "lines": [
+   {
+    "id": "L091",
+    "speaker": "N",
+    "text": "Check the corner.",
+    "section": "escape"
+   },
+   {
+    "id": "L092",
+    "speaker": "N",
+    "text": "And then, on an ordinary Tuesday, someone beside you will say something small.",
+    "section": "escape"
+   },
+   {
+    "id": "L093",
+    "speaker": "N",
+    "text": "You will laugh before you can manage it.",
+    "section": "escape"
+   },
+   {
+    "id": "L094",
+    "speaker": "N",
+    "text": "Somewhere, a shutter clicks. Right on time.",
+    "section": "escape"
+   },
+   {
+    "id": "L095",
+    "speaker": "N",
+    "text": "One more thing.",
+    "section": "turn"
+   },
+   {
+    "id": "L096",
+    "speaker": "N",
+    "text": "Earlier, Management told you not to show it to anyone.",
+    "section": "turn"
+   },
+   {
+    "id": "L097",
+    "speaker": "N",
+    "text": "Management has reviewed that advice.",
+    "section": "turn"
+   },
+   {
+    "id": "L098",
+    "speaker": "N",
+    "text": "Frame it. Put it where people can see it.",
+    "section": "turn"
+   },
+   {
+    "id": "L099",
+    "speaker": "N",
+    "text": "Management has to correct the record.",
+    "section": "turn"
+   },
+   {
+    "id": "L100",
+    "speaker": "N",
+    "text": "Nobody was following you. Nobody took anything from you.",
+    "section": "turn"
+   }
+  ]
+ },
+ {
+  "id": "B10",
+  "section": "turn",
+  "text": "It was never surveillance. It was only ever a reminder. That one day, someone is going to be glad you were there. The handwriting was yours. You will write it about four hundred and twelve days from now. Tomorrow, you may find another one. That is fine. It is only the good days, arriving early. Keep them. Management regrets the misunderstanding.",
+  "chars": 347,
+  "lines": [
+   {
+    "id": "L101",
+    "speaker": "N",
+    "text": "It was never surveillance. It was only ever a reminder.",
+    "section": "turn"
+   },
+   {
+    "id": "L102",
+    "speaker": "N",
+    "text": "That one day, someone is going to be glad you were there.",
+    "section": "turn"
+   },
+   {
+    "id": "L103",
+    "speaker": "N",
+    "text": "The handwriting was yours.",
+    "section": "turn"
+   },
+   {
+    "id": "L104",
+    "speaker": "N",
+    "text": "You will write it about four hundred and twelve days from now.",
+    "section": "turn"
+   },
+   {
+    "id": "L105",
+    "speaker": "N",
+    "text": "Tomorrow, you may find another one.",
+    "section": "turn"
+   },
+   {
+    "id": "L106",
+    "speaker": "N",
+    "text": "That is fine. It is only the good days, arriving early.",
+    "section": "turn"
+   },
+   {
+    "id": "L107",
+    "speaker": "N",
+    "text": "Keep them.",
+    "section": "turn"
+   },
+   {
+    "id": "L108",
+    "speaker": "N",
+    "text": "Management regrets the misunderstanding.",
+    "section": "turn"
+   }
+  ]
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "beat": "B01",
+  "take": 2,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B02",
+  "take": 0,
+  "ratio": 0.973,
+  "diffs": [
+   [
+    "replace",
+    "metres",
+    "meters"
+   ],
+   [
+    "replace",
+    "forty metres",
+    "meters"
+   ]
+  ]
+ },
+ {
+  "beat": "B03",
+  "take": 0,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B04",
+  "take": 0,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B05",
+  "take": 1,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B06",
+  "take": 0,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B07",
+  "take": 0,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B08",
+  "take": 5,
+  "ratio": 0.959,
+  "diffs": [
+   [
+    "replace",
+    "four hundred and twelve",
+    "forty one"
+   ],
+   [
+    "replace",
+    "route",
+    "root"
+   ]
+  ]
+ },
+ {
+  "beat": "B09",
+  "take": 3,
+  "ratio": 1.0,
+  "diffs": []
+ },
+ {
+  "beat": "B10",
+  "take": 0,
+  "ratio": 0.942,
+  "diffs": [
+   [
+    "replace",
+    "notice",
+    "note"
+   ],
+   [
+    "replace",
+    "four hundred and twelve",
+    "forty one"
+   ]
+  ]
+ }
+]

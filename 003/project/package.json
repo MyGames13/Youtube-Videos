@@ -1,0 +1,30 @@
+{
+  "name": "notice003",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Management Regrets: Building Notice 003",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "events": "node scripts/export-events.mjs",
+    "render": "scripts/render_final.sh out/chunks 2 900",
+    "thumbnail": "remotion still src/index.ts Thumbnail ../thumbnail.png --browser-executable=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell --gl=swangle",
+    "docs": "python3 scripts/make_docs.py .."
+  },
+  "dependencies": {
+    "@fontsource/caveat": "5.2.8",
+    "@fontsource/jetbrains-mono": "5.2.8",
+    "@fontsource/montserrat": "5.2.8",
+    "@react-three/fiber": "9.3.0",
+    "@remotion/cli": "4.0.538",
+    "@remotion/three": "4.0.538",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.538",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/three": "0.180.0",
+    "typescript": "5.9.3"
+  }
+}

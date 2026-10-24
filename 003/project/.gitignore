@@ -1,0 +1,8 @@
+node_modules/
+/out/
+.probe/
+audio/cache/
+audio/out/lines/
+audio/out/*.wav
+audio/__pycache__/
+*.part.mp4
