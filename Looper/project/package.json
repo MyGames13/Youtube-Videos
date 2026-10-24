@@ -1,0 +1,25 @@
+{
+  "name": "loophole-001",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Loophole001 out/picture.mp4 --gl=angle --concurrency=4 --crf=14 --muted"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "@remotion/three": "4.0.538",
+    "@remotion/google-fonts": "4.0.538",
+    "@react-three/fiber": "9.3.0",
+    "@react-three/drei": "10.7.6",
+    "remotion": "4.0.538",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.12",
+    "@types/three": "0.180.0",
+    "typescript": "5.9.2"
+  }
+}

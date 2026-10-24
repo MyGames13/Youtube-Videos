@@ -1,0 +1,1211 @@
+{
+ "duration": 172.661,
+ "lines": [
+  {
+   "id": "b1.1",
+   "beat": "b1",
+   "act": 1,
+   "text": "Tonight, the time machine works.",
+   "start": 1.081,
+   "end": 3.187,
+   "runs": [
+    [
+     1.053,
+     1.445
+    ],
+    [
+     1.732,
+     3.244
+    ]
+   ]
+  },
+  {
+   "id": "b1.2",
+   "beat": "b1",
+   "act": 1,
+   "text": "You get one trip. And you know exactly where.",
+   "start": 3.568,
+   "end": 6.224,
+   "runs": [
+    [
+     3.54,
+     4.511
+    ],
+    [
+     4.798,
+     5.023
+    ],
+    [
+     5.143,
+     6.281
+    ]
+   ]
+  },
+  {
+   "id": "b1.3",
+   "beat": "b1",
+   "act": 1,
+   "text": "Eleven years ago. Nine fourteen at night.",
+   "start": 6.551,
+   "end": 9.149,
+   "runs": [
+    [
+     6.522,
+     7.412
+    ],
+    [
+     7.7,
+     9.207
+    ]
+   ]
+  },
+  {
+   "id": "b1.4",
+   "beat": "b1",
+   "act": 1,
+   "text": "Grandma called.",
+   "start": 9.532,
+   "end": 10.173,
+   "runs": [
+    [
+     9.532,
+     10.173
+    ]
+   ]
+  },
+  {
+   "id": "b1.5",
+   "beat": "b1",
+   "act": 1,
+   "text": "You were busy. You let it ring.",
+   "start": 10.571,
+   "end": 11.887,
+   "runs": [
+    [
+     10.543,
+     11.083
+    ],
+    [
+     11.37,
+     11.944
+    ]
+   ]
+  },
+  {
+   "id": "b1.6",
+   "beat": "b1",
+   "act": 1,
+   "text": "By morning, she was gone.",
+   "start": 12.259,
+   "end": 13.522,
+   "runs": [
+    [
+     12.231,
+     12.795
+    ],
+    [
+     13.082,
+     13.58
+    ]
+   ]
+  },
+  {
+   "id": "b1.7",
+   "beat": "b1",
+   "act": 1,
+   "text": "Later, her neighbor said something strange.",
+   "start": 13.841,
+   "end": 16.329,
+   "runs": [
+    [
+     13.812,
+     14.1
+    ],
+    [
+     14.387,
+     14.712
+    ],
+    [
+     14.808,
+     16.387
+    ]
+   ]
+  },
+  {
+   "id": "b1.8",
+   "beat": "b1",
+   "act": 1,
+   "text": "Someone sat with her at the end. A young person, in a coat.",
+   "start": 16.728,
+   "end": 20.116,
+   "runs": [
+    [
+     16.7,
+     17.743
+    ],
+    [
+     17.881,
+     18.326
+    ],
+    [
+     18.613,
+     19.35
+    ],
+    [
+     19.637,
+     20.173
+    ]
+   ]
+  },
+  {
+   "id": "b1.9",
+   "beat": "b1",
+   "act": 1,
+   "text": "Nobody knew who.",
+   "start": 20.434,
+   "end": 21.171,
+   "runs": [
+    [
+     20.434,
+     21.171
+    ]
+   ]
+  },
+  {
+   "id": "b1.10",
+   "beat": "b1",
+   "act": 1,
+   "text": "Now you can fix it. There's just one problem.",
+   "start": 21.502,
+   "end": 22.732,
+   "runs": [
+    [
+     21.474,
+     21.818
+    ],
+    [
+     22.105,
+     22.789
+    ]
+   ]
+  },
+  {
+   "id": "b1.11",
+   "beat": "b1",
+   "act": 1,
+   "text": "Time travel is useless.",
+   "start": 23.844,
+   "end": 25.552,
+   "runs": [
+    [
+     23.815,
+     24.686
+    ],
+    [
+     24.973,
+     25.61
+    ]
+   ]
+  },
+  {
+   "id": "b1.12",
+   "beat": "b1",
+   "act": 1,
+   "text": "Give me three minutes, and I'll prove it.",
+   "start": 25.925,
+   "end": 28.89,
+   "runs": [
+    [
+     25.897,
+     26.538
+    ],
+    [
+     26.825,
+     27.657
+    ],
+    [
+     27.944,
+     28.533
+    ],
+    [
+     28.82,
+     28.947
+    ]
+   ]
+  },
+  {
+   "id": "b2.1",
+   "beat": "b2",
+   "act": 2,
+   "text": "Attempt one. Train cancelled.",
+   "start": 29.688,
+   "end": 31.143,
+   "runs": [
+    [
+     29.659,
+     30.315
+    ],
+    [
+     30.525,
+     31.2
+    ]
+   ]
+  },
+  {
+   "id": "b2.2",
+   "beat": "b2",
+   "act": 2,
+   "text": "Attempt two. Your zipper jams.",
+   "start": 31.463,
+   "end": 32.803,
+   "runs": [
+    [
+     31.434,
+     31.932
+    ],
+    [
+     32.143,
+     32.86
+    ]
+   ]
+  },
+  {
+   "id": "b2.3",
+   "beat": "b2",
+   "act": 2,
+   "text": "Attempt three. The taxi driver knows a shortcut.",
+   "start": 33.077,
+   "end": 35.378,
+   "runs": [
+    [
+     33.048,
+     33.722
+    ],
+    [
+     33.933,
+     35.435
+    ]
+   ]
+  },
+  {
+   "id": "b2.4",
+   "beat": "b2",
+   "act": 2,
+   "text": "He does not know a shortcut.",
+   "start": 35.644,
+   "end": 37.051,
+   "runs": [
+    [
+     35.615,
+     36.295
+    ],
+    [
+     36.405,
+     37.108
+    ]
+   ]
+  },
+  {
+   "id": "b2.5",
+   "beat": "b2",
+   "act": 2,
+   "text": "So you call your younger self. Go to her. Right now.",
+   "start": 37.341,
+   "end": 39.953,
+   "runs": [
+    [
+     37.312,
+     38.68
+    ],
+    [
+     38.891,
+     39.302
+    ],
+    [
+     39.513,
+     40.011
+    ]
+   ]
+  },
+  {
+   "id": "b2.6",
+   "beat": "b2",
+   "act": 2,
+   "text": "He thinks it's a prank. Honestly? So would you.",
+   "start": 40.189,
+   "end": 42.433,
+   "runs": [
+    [
+     40.16,
+     41.035
+    ],
+    [
+     41.246,
+     41.677
+    ],
+    [
+     41.887,
+     42.49
+    ]
+   ]
+  },
+  {
+   "id": "b2.7",
+   "beat": "b2",
+   "act": 2,
+   "text": "Two hundred and fourteen tries.",
+   "start": 42.688,
+   "end": 44.717,
+   "runs": [
+    [
+     42.659,
+     43.798
+    ],
+    [
+     43.908,
+     44.774
+    ]
+   ]
+  },
+  {
+   "id": "b2.8",
+   "beat": "b2",
+   "act": 2,
+   "text": "It's not bad luck.",
+   "start": 44.996,
+   "end": 45.79,
+   "runs": [
+    [
+     44.996,
+     45.79
+    ]
+   ]
+  },
+  {
+   "id": "b2.9",
+   "beat": "b2",
+   "act": 2,
+   "text": "It's a rule.",
+   "start": 46.19,
+   "end": 46.972,
+   "runs": [
+    [
+     46.162,
+     46.693
+    ],
+    [
+     46.903,
+     47.03
+    ]
+   ]
+  },
+  {
+   "id": "b3.1",
+   "beat": "b3",
+   "act": 3,
+   "text": "In the eighties, physicist Igor Novikov had an idea.",
+   "start": 47.754,
+   "end": 51.022,
+   "runs": [
+    [
+     47.725,
+     48.453
+    ],
+    [
+     48.74,
+     51.079
+    ]
+   ]
+  },
+  {
+   "id": "b3.2",
+   "beat": "b3",
+   "act": 3,
+   "text": "Think of history like a movie that's already been filmed.",
+   "start": 51.355,
+   "end": 54.202,
+   "runs": [
+    [
+     51.355,
+     54.202
+    ]
+   ]
+  },
+  {
+   "id": "b3.3",
+   "beat": "b3",
+   "act": 3,
+   "text": "You can be in it. You just can't edit it.",
+   "start": 54.532,
+   "end": 56.513,
+   "runs": [
+    [
+     54.503,
+     55.293
+    ],
+    [
+     55.58,
+     56.57
+    ]
+   ]
+  },
+  {
+   "id": "b3.4",
+   "beat": "b3",
+   "act": 3,
+   "text": "Scientists tested it with pool balls. On paper.",
+   "start": 56.82,
+   "end": 59.547,
+   "runs": [
+    [
+     56.791,
+     58.729
+    ],
+    [
+     59.016,
+     59.605
+    ]
+   ]
+  },
+  {
+   "id": "b3.5",
+   "beat": "b3",
+   "act": 3,
+   "text": "A ball rolls into a time tunnel, and comes out earlier.",
+   "start": 59.891,
+   "end": 63.078,
+   "runs": [
+    [
+     59.862,
+     61.867
+    ],
+    [
+     62.025,
+     63.135
+    ]
+   ]
+  },
+  {
+   "id": "b3.6",
+   "beat": "b3",
+   "act": 3,
+   "text": "It tries to knock its younger self away.",
+   "start": 63.463,
+   "end": 65.305,
+   "runs": [
+    [
+     63.463,
+     65.305
+    ]
+   ]
+  },
+  {
+   "id": "b3.7",
+   "beat": "b3",
+   "act": 3,
+   "text": "The math says no.",
+   "start": 65.808,
+   "end": 67.384,
+   "runs": [
+    [
+     65.779,
+     66.329
+    ],
+    [
+     66.616,
+     67.061
+    ],
+    [
+     67.315,
+     67.441
+    ]
+   ]
+  },
+  {
+   "id": "b4.1",
+   "beat": "b4",
+   "act": 3,
+   "text": "The only shot that works, knocks the young ball in.",
+   "start": 67.896,
+   "end": 70.972,
+   "runs": [
+    [
+     67.867,
+     69.451
+    ],
+    [
+     69.566,
+     71.03
+    ]
+   ]
+  },
+  {
+   "id": "b4.2",
+   "beat": "b4",
+   "act": 3,
+   "text": "It can't stop itself. It can only be the reason.",
+   "start": 71.324,
+   "end": 74.257,
+   "runs": [
+    [
+     71.296,
+     72.535
+    ],
+    [
+     72.698,
+     73.478
+    ],
+    [
+     73.664,
+     74.315
+    ]
+   ]
+  },
+  {
+   "id": "b4.3",
+   "beat": "b4",
+   "act": 3,
+   "text": "You still choose.",
+   "start": 74.643,
+   "end": 75.528,
+   "runs": [
+    [
+     74.643,
+     75.528
+    ]
+   ]
+  },
+  {
+   "id": "b4.4",
+   "beat": "b4",
+   "act": 3,
+   "text": "Inside a story that already has your name in it.",
+   "start": 75.841,
+   "end": 78.138,
+   "runs": [
+    [
+     75.812,
+     76.994
+    ],
+    [
+     77.123,
+     78.195
+    ]
+   ]
+  },
+  {
+   "id": "b4.5",
+   "beat": "b4",
+   "act": 3,
+   "text": "Is any of this real? Kind of.",
+   "start": 78.465,
+   "end": 80.039,
+   "runs": [
+    [
+     78.436,
+     79.513
+    ],
+    [
+     79.685,
+     80.097
+    ]
+   ]
+  },
+  {
+   "id": "b4.6",
+   "beat": "b4",
+   "act": 3,
+   "text": "One cosmonaut came back from space, a fiftieth of a second in the future.",
+   "start": 80.378,
+   "end": 85.96,
+   "runs": [
+    [
+     80.349,
+     81.124
+    ],
+    [
+     81.411,
+     83.158
+    ],
+    [
+     83.273,
+     84.78
+    ],
+    [
+     85.019,
+     85.603
+    ],
+    [
+     85.89,
+     86.017
+    ]
+   ]
+  },
+  {
+   "id": "b5.1",
+   "beat": "b5",
+   "act": 4,
+   "text": "Forward is easy. Backward only works on paper.",
+   "start": 86.474,
+   "end": 90.34,
+   "runs": [
+    [
+     86.445,
+     88.0
+    ],
+    [
+     88.287,
+     90.397
+    ]
+   ]
+  },
+  {
+   "id": "b5.2",
+   "beat": "b5",
+   "act": 4,
+   "text": "Nobody has ever built a time machine.",
+   "start": 90.7,
+   "end": 93.188,
+   "runs": [
+    [
+     90.7,
+     93.188
+    ]
+   ]
+  },
+  {
+   "id": "b5.3",
+   "beat": "b5",
+   "act": 4,
+   "text": "Stephen Hawking once threw a party for time travelers.",
+   "start": 93.515,
+   "end": 96.223,
+   "runs": [
+    [
+     93.515,
+     96.223
+    ]
+   ]
+  },
+  {
+   "id": "b5.4",
+   "beat": "b5",
+   "act": 4,
+   "text": "He sent the invites after the party.",
+   "start": 96.578,
+   "end": 98.645,
+   "runs": [
+    [
+     96.578,
+     98.645
+    ]
+   ]
+  },
+  {
+   "id": "b5.5",
+   "beat": "b5",
+   "act": 4,
+   "text": "Nobody came.",
+   "start": 99.433,
+   "end": 100.069,
+   "runs": [
+    [
+     99.433,
+     100.069
+    ]
+   ]
+  },
+  {
+   "id": "b5.6",
+   "beat": "b5",
+   "act": 4,
+   "text": "Or somebody did, and left everything exactly as they found it.",
+   "start": 100.382,
+   "end": 104.077,
+   "runs": [
+    [
+     100.353,
+     100.741
+    ],
+    [
+     101.028,
+     101.817
+    ],
+    [
+     102.104,
+     104.134
+    ]
+   ]
+  },
+  {
+   "id": "b5.7",
+   "beat": "b5",
+   "act": 4,
+   "text": "Remember that.",
+   "start": 104.556,
+   "end": 105.42,
+   "runs": [
+    [
+     104.527,
+     105.063
+    ],
+    [
+     105.35,
+     105.478
+    ]
+   ]
+  },
+  {
+   "id": "b6a.1",
+   "beat": "b6a",
+   "act": 5,
+   "text": "There's one way out.",
+   "start": 106.178,
+   "end": 107.02,
+   "runs": [
+    [
+     106.178,
+     107.02
+    ]
+   ]
+  },
+  {
+   "id": "b6a.2",
+   "beat": "b6a",
+   "act": 5,
+   "text": "Physicist David Deutsch said the universe might split.",
+   "start": 107.394,
+   "end": 110.959,
+   "runs": [
+    [
+     107.394,
+     110.959
+    ]
+   ]
+  },
+  {
+   "id": "b6a.3",
+   "beat": "b6a",
+   "act": 5,
+   "text": "Change the past, and you make a new timeline.",
+   "start": 111.295,
+   "end": 113.711,
+   "runs": [
+    [
+     111.266,
+     112.247
+    ],
+    [
+     112.414,
+     113.768
+    ]
+   ]
+  },
+  {
+   "id": "b6a.4",
+   "beat": "b6a",
+   "act": 5,
+   "text": "You could save a grandma. Just not yours.",
+   "start": 114.082,
+   "end": 116.894,
+   "runs": [
+    [
+     114.054,
+     115.03
+    ],
+    [
+     115.317,
+     115.599
+    ],
+    [
+     115.886,
+     116.542
+    ],
+    [
+     116.824,
+     116.951
+    ]
+   ]
+  },
+  {
+   "id": "b6b.1",
+   "beat": "b6b",
+   "act": 5,
+   "text": "You don't want a grandma.",
+   "start": 117.459,
+   "end": 118.804,
+   "runs": [
+    [
+     117.459,
+     118.804
+    ]
+   ]
+  },
+  {
+   "id": "b6b.2",
+   "beat": "b6b",
+   "act": 5,
+   "text": "You want her.",
+   "start": 119.412,
+   "end": 120.422,
+   "runs": [
+    [
+     119.412,
+     120.422
+    ]
+   ]
+  },
+  {
+   "id": "b6b.3",
+   "beat": "b6b",
+   "act": 5,
+   "text": "So you stop trying to fix it.",
+   "start": 120.764,
+   "end": 122.649,
+   "runs": [
+    [
+     120.735,
+     121.099
+    ],
+    [
+     121.386,
+     122.706
+    ]
+   ]
+  },
+  {
+   "id": "b6b.4",
+   "beat": "b6b",
+   "act": 5,
+   "text": "Attempt two hundred and fifteen. You just go.",
+   "start": 122.995,
+   "end": 126.831,
+   "runs": [
+    [
+     122.967,
+     123.579
+    ],
+    [
+     123.818,
+     125.053
+    ],
+    [
+     125.34,
+     125.904
+    ],
+    [
+     126.191,
+     126.517
+    ],
+    [
+     126.746,
+     126.888
+    ]
+   ]
+  },
+  {
+   "id": "b7.1",
+   "beat": "b7",
+   "act": 6,
+   "text": "Her door isn't locked. It never was.",
+   "start": 127.635,
+   "end": 129.616,
+   "runs": [
+    [
+     127.607,
+     128.669
+    ],
+    [
+     128.956,
+     129.674
+    ]
+   ]
+  },
+  {
+   "id": "b7.2",
+   "beat": "b7",
+   "act": 6,
+   "text": "Same kitchen. Same tea. Same slow clock.",
+   "start": 129.976,
+   "end": 132.995,
+   "runs": [
+    [
+     129.947,
+     130.675
+    ],
+    [
+     130.962,
+     131.632
+    ],
+    [
+     131.919,
+     133.053
+    ]
+   ]
+  },
+  {
+   "id": "b7.3",
+   "beat": "b7",
+   "act": 6,
+   "text": "Nine fourteen. Across town, your phone starts ringing.",
+   "start": 133.357,
+   "end": 137.089,
+   "runs": [
+    [
+     133.328,
+     134.319
+    ],
+    [
+     134.606,
+     135.634
+    ],
+    [
+     135.859,
+     137.146
+    ]
+   ]
+  },
+  {
+   "id": "b7.4",
+   "beat": "b7",
+   "act": 6,
+   "text": "Younger you lets it ring.",
+   "start": 137.46,
+   "end": 138.767,
+   "runs": [
+    [
+     137.432,
+     138.47
+    ],
+    [
+     138.561,
+     138.824
+    ]
+   ]
+  },
+  {
+   "id": "b7.5",
+   "beat": "b7",
+   "act": 6,
+   "text": "She sees you in the doorway.",
+   "start": 139.155,
+   "end": 140.409,
+   "runs": [
+    [
+     139.155,
+     140.409
+    ]
+   ]
+  },
+  {
+   "id": "b7.6",
+   "beat": "b7",
+   "act": 6,
+   "text": "She doesn't ask who you are. She just slides a cup over.",
+   "start": 140.808,
+   "end": 143.884,
+   "runs": [
+    [
+     140.779,
+     141.97
+    ],
+    [
+     142.257,
+     142.588
+    ],
+    [
+     142.736,
+     143.942
+    ]
+   ]
+  },
+  {
+   "id": "b7.7",
+   "beat": "b7",
+   "act": 6,
+   "text": "And you sit.",
+   "start": 144.581,
+   "end": 145.478,
+   "runs": [
+    [
+     144.552,
+     145.122
+    ],
+    [
+     145.409,
+     145.535
+    ]
+   ]
+  },
+  {
+   "id": "b8.1",
+   "beat": "b8",
+   "act": 6,
+   "text": "You can't stop what's coming.",
+   "start": 147.002,
+   "end": 148.461,
+   "runs": [
+    [
+     146.973,
+     147.729
+    ],
+    [
+     147.83,
+     148.519
+    ]
+   ]
+  },
+  {
+   "id": "b8.2",
+   "beat": "b8",
+   "act": 6,
+   "text": "But tonight, she isn't alone.",
+   "start": 148.801,
+   "end": 150.796,
+   "runs": [
+    [
+     148.772,
+     149.48
+    ],
+    [
+     149.748,
+     150.854
+    ]
+   ]
+  },
+  {
+   "id": "b8.3",
+   "beat": "b8",
+   "act": 6,
+   "text": "Across the street, the neighbor sees a young person in a blue coat.",
+   "start": 151.108,
+   "end": 155.075,
+   "runs": [
+    [
+     151.079,
+     152.199
+    ],
+    [
+     152.424,
+     154.242
+    ],
+    [
+     154.343,
+     155.132
+    ]
+   ]
+  },
+  {
+   "id": "b8.4",
+   "beat": "b8",
+   "act": 6,
+   "text": "You didn't change a thing. You left everything exactly as you found it.",
+   "start": 155.385,
+   "end": 159.519,
+   "runs": [
+    [
+     155.356,
+     156.844
+    ],
+    [
+     157.131,
+     158.045
+    ],
+    [
+     158.184,
+     159.576
+    ]
+   ]
+  },
+  {
+   "id": "b8.5",
+   "beat": "b8",
+   "act": 6,
+   "text": "You were the part nobody could explain.",
+   "start": 159.827,
+   "end": 161.789,
+   "runs": [
+    [
+     159.798,
+     160.482
+    ],
+    [
+     160.731,
+     161.846
+    ]
+   ]
+  },
+  {
+   "id": "b8.6",
+   "beat": "b8",
+   "act": 6,
+   "text": "So yes. Time travel is useless... unless you just want to be there.",
+   "start": 162.677,
+   "end": 166.476,
+   "runs": [
+    [
+     162.648,
+     162.968
+    ],
+    [
+     163.122,
+     163.624
+    ],
+    [
+     163.911,
+     164.954
+    ],
+    [
+     165.241,
+     166.533
+    ]
+   ]
+  },
+  {
+   "id": "b8.7",
+   "beat": "b8",
+   "act": 6,
+   "text": "And right now is somebody's past.",
+   "start": 166.857,
+   "end": 168.685,
+   "runs": [
+    [
+     166.857,
+     168.685
+    ]
+   ]
+  },
+  {
+   "id": "b8.8",
+   "beat": "b8",
+   "act": 6,
+   "text": "So when your phone rings tonight...",
+   "start": 169.059,
+   "end": 170.409,
+   "runs": [
+    [
+     169.059,
+     170.409
+    ]
+   ]
+  },
+  {
+   "id": "b8.9",
+   "beat": "b8",
+   "act": 6,
+   "text": "Pick up.",
+   "start": 171.42,
+   "end": 172.125,
+   "runs": [
+    [
+     171.391,
+     171.769
+    ],
+    [
+     172.056,
+     172.183
+    ]
+   ]
+  }
+ ]
+}

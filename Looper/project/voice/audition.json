@@ -1,0 +1,9 @@
+{
+ "model": "gemini-3.8-flash-tts",
+ "files": {
+  "Algieba": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_c6fa0b6ac5671da166d0.wav",
+  "Charon": "/home/user/Youtube-Videos/Looper/project/voice/cache/Charon_acc06084b3669beacda7.wav",
+  "Enceladus": "/home/user/Youtube-Videos/Looper/project/voice/cache/Enceladus_9e83fb76727acc6ce128.wav",
+  "Achird": "/home/user/Youtube-Videos/Looper/project/voice/cache/Achird_51f769e8d1f02c054a8b.wav"
+ }
+}

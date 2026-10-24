@@ -1,0 +1,42 @@
+{
+ "b2": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_9aaf72f84818b2600294.wav",
+  "text": "[0.0] Director's notes.\n[1.3] A warm, quiet, late-night storyteller.\n[5.1] Close to the microphone, like a thoughtful friend telling you something astonishing.\n[10.4] Natural and human, a small smile on dry jokes, gentle in sad parts.\n[16.1] Steady, easy pace, soft downward endings.\n[22.0] Attempt one: train canceled.\n[25.0] Attempt two: your zipper jams.\n[28.4] Attempt three: the taxi driver knows a shortcut.\n[32.3] He does not know a shortcut.\n[35.3] So you call your younger self.\n[37.2] Go to her.\n[38.4] Right now.\n[40.0] He thinks it's a prank.\n[42.2] Honestly, so would you.\n[45.3] 214 tries.\n[48.3] It's not bad luck.\n[50.3] It's a rule.\n\nISSUES: NONE"
+ },
+ "b3": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_21b4ef8e582b59db2e26.wav",
+  "text": "[00.0] In the '80s, physicist Igor Novikov had an idea.\n[04.0] Like a thoughtful friend telling you something astonishing.\n[07.8] Natural and human, small smile on dry jokes, gentle in sad parts, steady, easy pace, soft downward endings.\n[19.8] In the '80s, physicist Igor Novikov had an idea.\n[25.1] Think of history like a movie that's already been filmed.\n[29.8] You can be in it, you just can't edit it.\n[33.0] Scientists tested it with pool balls.\n[35.6] On paper.\n[37.5] A ball rolls into a time tunnel and comes out earlier.\n[41.2] It tries to knock its younger self away.\n[44.2] The math says no.\n\nISSUES:\n- [04.0 - 00:18.0] Prompt/directing instructions read aloud\n- [00.0 - 00:03.5] and [19.8 - 00:24.0] Repeated sentence: \"In the '80s, physicist Igor Novikov had an idea.\""
+ },
+ "b7": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_89f83350e06320d673d0.wav",
+  "text": "[0.0] Her door isn't locked.\n[1.9] It never was.\n[3.3] Same microphone, like a thoughtful friend telling you something astonishing.\n[8.4] Natural and human.\n[11.0] A small smile on dry jokes, gentle in sad parts.\n[15.5] Steady, easy pace, soft downward endings.\n[21.3] Her door isn't locked.\n[23.1] It never was.\n[24.9] Same kitchen, same tea, same slow clock.\n[30.2] 9:14.\n[32.3] Across town, your phone starts ringing.\n[35.3] Younger you lets it ring.\n[38.0] She sees you in the doorway.\n[40.1] She doesn't ask who you are.\n[42.2] She just slides a cup over.\n[44.8] And you sit.\n\nISSUES: NONE"
+ },
+ "b8": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_4f531d5069b26709a047.wav",
+  "text": "[0.0] You can't stop what's coming.\n[2.8] Close to the microphone, like a thoughtful friend telling you something astonishing.\n[8.0] Natural and human.\n[10.2] A small smile on dry jokes, gentle in sad parts.\n[15.1] Steady, easy pace, soft, downward endings.\n[21.1] You can't stop what's coming.\n[23.5] But tonight, she isn't alone.\n[26.5] Across the street, the neighbor sees a young person in a blue coat.\n[31.9] You didn't change a thing.\n[34.3] You left everything exactly as you found it.\n[37.7] You were the part nobody could explain.\n[41.0] So yes, time travel is useless, unless you just want to be there.\n[46.6] And right now is somebody's past.\n[49.4] So when your phone rings tonight, pick up.\n\nISSUES:\n- [2.8 - 20.0] Speaker reads prompt/voice direction instructions out loud\n- [21.1] Repeated sentence (\"You can't stop what's coming\")"
+ },
+ "b4": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_2eb165c3a943e629a342.wav",
+  "text": "[0.0] The one shot that works knocks the young ball in.\n[4.1] It can't stop itself, it can only be the reason.\n[8.1] You still choose inside a story that already has your name in it.\n[12.7] Is any of this real?\n[15.0] Kind of.\n[16.5] One cosmonaut came back from space a 50th of a second in the future.\n\nISSUES: NONE"
+ },
+ "b6": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_65926abe337ca79ad4e5.wav",
+  "text": "[0.6] There's one quiet, late-night storyteller, close to the microphone like a thoughtful friend telling you something astonishing.\n[9.8] Natural and human, a small smile on dry jokes.\n[13.5] Gentle in sad parts, steady, easy pace, soft, downward endings.\n[20.5] There's one way out.\n[22.1] Physicist David Deutsch said the universe might split.\n[25.5] Change the past, and you make a new timeline.\n[28.5] You could save a grandma, just not yours.\n[32.7] You don't want a grandma, you want her.\n[36.4] So, you stop trying to fix it.\n[39.7] Attempt 215.\n[41.8] You just go.\n\nISSUES: [0:00 - 0:20] extra words"
+ },
+ "b5": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_a48ebb65d6cd491235ed.wav",
+  "text": "[0.0] Forward is easy.\n[2.1] Backward only works on paper.\n[6.0] Nobody has ever built a time machine.\n[9.7] Stephen Hawking once threw a party for time travelers.\n[13.1] He sent the invites after the party.\n[16.0] Nobody came.\n[18.6] Or, somebody did, and left everything exactly as they found it.\n[24.0] Remember that.\n\nISSUES: NONE"
+ },
+ "b1": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_d7b8a7944be47717ea57.wav",
+  "text": "[0.0] Tonight, the time machine works.\n[3.5] You get one trip, and you know exactly where.\n[7.4] 11 years ago.\n[9.0] 9:14 at night.\n[11.2] Grandma called.\n[12.8] You were busy.\n[14.0] You let it ring.\n[16.0] By morning, she was gone.\n[19.4] Later, her neighbor said something strange.\n[22.4] Someone sat with her at the end.\n[24.8] A young person in a coat.\n[27.4] Nobody knew who.\n[29.3] Now, you can fix it.\n[31.5] There's just one problem.\n[33.4] Time travel is useless.\n[36.1] Give me three minutes, and I'll prove it.\n\nISSUES: NONE"
+ },
+ "b6a": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_ea7bda86eeca6a4c6780.wav",
+  "text": "[0.0] There's one way out.\n[1.8] Physicist David Deutsch said the universe might split.\n[6.1] Change the past and you make a new timeline.\n[9.4] You could save a grandma,\n[11.2] just not yours.\n\nISSUES: [4.7-5.5] whispering on \"split\", [11.2-13.0] whispering on \"just not yours\""
+ },
+ "b6b": {
+  "file": "/home/user/Youtube-Videos/Looper/project/voice/cache/Algieba_4c1b66ce9fc51d3c3c78.wav",
+  "text": "[0.0] You don't want a grandma.\n[2.0] You want her.\n[3.8] So, you stop trying to fix it.\n[5.9] Attempt 215.\n[7.8] You just go.\nISSUES: NONE"
+ }
+}

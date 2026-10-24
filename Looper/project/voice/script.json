@@ -1,0 +1,123 @@
+{
+ "beats": [
+  {
+   "id": "b1",
+   "act": 1,
+   "lines": [
+    "Tonight, the time machine works.",
+    "You get one trip. And you know exactly where.",
+    "Eleven years ago. Nine fourteen at night.",
+    "Grandma called.",
+    "You were busy. You let it ring.",
+    "By morning, she was gone.",
+    "Later, her neighbor said something strange.",
+    "Someone sat with her at the end. A young person, in a coat.",
+    "Nobody knew who.",
+    "Now you can fix it. There's just one problem.",
+    "Time travel is useless.",
+    "Give me three minutes, and I'll prove it."
+   ]
+  },
+  {
+   "id": "b2",
+   "act": 2,
+   "lines": [
+    "Attempt one. Train cancelled.",
+    "Attempt two. Your zipper jams.",
+    "Attempt three. The taxi driver knows a shortcut.",
+    "He does not know a shortcut.",
+    "So you call your younger self. Go to her. Right now.",
+    "He thinks it's a prank. Honestly? So would you.",
+    "Two hundred and fourteen tries.",
+    "It's not bad luck.",
+    "It's a rule."
+   ]
+  },
+  {
+   "id": "b3",
+   "act": 3,
+   "lines": [
+    "In the eighties, physicist Igor Novikov had an idea.",
+    "Think of history like a movie that's already been filmed.",
+    "You can be in it. You just can't edit it.",
+    "Scientists tested it with pool balls. On paper.",
+    "A ball rolls into a time tunnel, and comes out earlier.",
+    "It tries to knock its younger self away.",
+    "The math says no."
+   ]
+  },
+  {
+   "id": "b4",
+   "act": 3,
+   "lines": [
+    "The only shot that works, knocks the young ball in.",
+    "It can't stop itself. It can only be the reason.",
+    "You still choose.",
+    "Inside a story that already has your name in it.",
+    "Is any of this real? Kind of.",
+    "One cosmonaut came back from space, a fiftieth of a second in the future."
+   ]
+  },
+  {
+   "id": "b5",
+   "act": 4,
+   "lines": [
+    "Forward is easy. Backward only works on paper.",
+    "Nobody has ever built a time machine.",
+    "Stephen Hawking once threw a party for time travelers.",
+    "He sent the invites after the party.",
+    "Nobody came.",
+    "Or somebody did, and left everything exactly as they found it.",
+    "Remember that."
+   ]
+  },
+  {
+   "id": "b6a",
+   "act": 5,
+   "lines": [
+    "There's one way out.",
+    "Physicist David Deutsch said the universe might split.",
+    "Change the past, and you make a new timeline.",
+    "You could save a grandma. Just not yours."
+   ]
+  },
+  {
+   "id": "b6b",
+   "act": 5,
+   "lines": [
+    "You don't want a grandma.",
+    "You want her.",
+    "So you stop trying to fix it.",
+    "Attempt two hundred and fifteen. You just go."
+   ]
+  },
+  {
+   "id": "b7",
+   "act": 6,
+   "lines": [
+    "Her door isn't locked. It never was.",
+    "Same kitchen. Same tea. Same slow clock.",
+    "Nine fourteen. Across town, your phone starts ringing.",
+    "Younger you lets it ring.",
+    "She sees you in the doorway.",
+    "She doesn't ask who you are. She just slides a cup over.",
+    "And you sit."
+   ]
+  },
+  {
+   "id": "b8",
+   "act": 6,
+   "lines": [
+    "You can't stop what's coming.",
+    "But tonight, she isn't alone.",
+    "Across the street, the neighbor sees a young person in a blue coat.",
+    "You didn't change a thing. You left everything exactly as you found it.",
+    "You were the part nobody could explain.",
+    "So yes. Time travel is useless... unless you just want to be there.",
+    "And right now is somebody's past.",
+    "So when your phone rings tonight...",
+    "Pick up."
+   ]
+  }
+ ]
+}
