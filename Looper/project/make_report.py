@@ -26,6 +26,7 @@ lines = [
     'Beat 6 needed 3 retakes plus a split; 6b carries a formant preserving 0.91 pitch trim; one line (b6a.4) was spliced from take 2 to fix a wrong word.',
     'Picture: full 3D path (React Three Fiber in headless Chromium via SwiftShader), no 2.5D fallback. Fonts bundled locally (Google Fonts TLS blocked in the renderer).',
     'Sound: 100 percent procedural (numpy/scipy), no samples; mix checked by an AI listener and revised (transition SFX and hits lowered, rain hiss and phone rings tamed).',
+    'Bonus: short_hook.mp4 (39.8 s, 6 MB) and short_reveal.mp4 (37.8 s, 7 MB), 720x1280, recomposed from the same timeline with their own captions and HUD.',
     'Could not do: human listening, a reference video analysis (no reference files were attached), real CC0 foley. Script trimmed to about 460 words to fit 3 minutes.',
 ]
 open(os.path.join(OUT, 'report.txt'), 'w').write('\n'.join(lines) + '\n')
